@@ -1,0 +1,111 @@
+name: Conference / Event Request
+description: Suggest a new iOS / Apple-platform conference, watch party, or community event for the app.
+title: "Conference: "
+labels: ["conference-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for adding to the list! Most fields are optional, but **Name** and **Website URL** are required. If you submitted this from inside the iOS app, the fields below will already be filled in for you.
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      description: What is this entry? "Watch Party" is specifically a group keynote / SOTU stream. "Meetup" is a recurring local chapter meeting (CocoaHeads, boulderOS, a monthly .swift group). "Event" is a one-off gathering — hack day, dinner, run, WWDC-week satellite.
+      options:
+        - Conference
+        - Watch Party
+        - Meetup
+        - Event
+      default: 0
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The display name.
+      placeholder: "e.g. try! Swift Tokyo"
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Website URL
+      description: Official conference homepage.
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: start-date
+    attributes:
+      label: Start date
+      description: First day of the conference, in YYYY-MM-DD format.
+      placeholder: "2026-09-07"
+
+  - type: input
+    id: end-date
+    attributes:
+      label: End date
+      description: Last day of the conference, in YYYY-MM-DD format. Use the same value as the start date for a one-day event.
+      placeholder: "2026-09-10"
+
+  - type: input
+    id: start-time
+    attributes:
+      label: Start time (optional)
+      description: Local start time in 24-hour HH:mm — for Watch Parties / Events only. Leave blank for multi-day conferences.
+      placeholder: "19:00"
+
+  - type: input
+    id: end-time
+    attributes:
+      label: End time (optional)
+      description: Local end time in 24-hour HH:mm. Optional even when a start time is given.
+      placeholder: "22:00"
+
+  - type: input
+    id: timezone
+    attributes:
+      label: Time zone (optional)
+      description: IANA identifier (e.g. America/Los_Angeles, Europe/Berlin, Asia/Tokyo). Add it for online timed events; in-person events derive it from the location automatically.
+      placeholder: "America/Los_Angeles"
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: City and country, or "Online" for virtual events.
+      placeholder: "Aberystwyth, UK"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: One-sentence factual summary, in your own words (please don't copy the site's marketing text — see the legal note in CONTRIBUTING.md).
+      placeholder: "Long-running, community-driven UK iOS conference with workshops, talks and shared accommodation."
+
+  - type: input
+    id: logo-url
+    attributes:
+      label: Logo URL (optional)
+      description: A direct link to the conference's logo or og:image. The app fetches this at display time and never bundles it.
+      placeholder: "https://..."
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags (optional)
+      description: Comma-separated topical tags. Pick from `community`, `wwdc`, `swift`, `ios`, `ai`, `indie`, `visionos`, `accessibility`, `swiftui`, `macos`, `apple`, `design`, `general`.
+      placeholder: "swift, ios, community"
+
+  - type: input
+    id: submitted-by
+    attributes:
+      label: Submitted by (optional)
+      description: Your GitHub handle, if you'd like credit in the data file or PR.
+      placeholder: "@your-handle"

@@ -1,0 +1,20 @@
+name: Validate data
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths: ["data/**", "scripts/**"]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Conferences
+        run: python3 scripts/validate_conferences.py
+      - name: Talk schedules
+        run: python3 scripts/validate_schedules.py

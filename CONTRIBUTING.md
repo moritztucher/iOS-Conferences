@@ -1,0 +1,216 @@
+# Contributing
+
+Thanks for helping keep this list current. Every conference in the app comes from `data/conferences.json` in this repo — a plain JSON file anyone can edit.
+
+There are three ways to contribute, in order of friction:
+
+1. **In-app email form** *(easiest, no GitHub account needed)*
+   Open the app → **Settings** → **Suggest a conference** → fill the form → **Email suggestion**. The structured details land in the developer's inbox and get added in the next data update.
+
+2. **GitHub Issue**
+   From the same in-app form, tap **Submit as a GitHub Issue instead** — or open one directly: [New conference request](https://github.com/moritztucher/iOS-Conferences/issues/new?template=conference-request.yml). A maintainer turns approved issues into PRs against `data/conferences.json`.
+
+3. **Pull Request** *(fastest if you know git)*
+   Edit `data/conferences.json` directly and open a PR against `main`. Schema below.
+
+---
+
+## JSON schema
+
+`data/conferences.json` is an array of conference objects.
+
+```json
+{
+  "id": "iosdevuk-2026",
+  "kind": "Conference",
+  "name": "iOSDevUK",
+  "startDate": "2026-09-07",
+  "endDate": "2026-09-10",
+  "locationName": "Aberystwyth, UK",
+  "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+  "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+  "websiteURL": "https://www.iosdevuk.com",
+  "logoURL": "https://...",
+  "tags": ["ios", "swift", "community"]
+}
+```
+
+| Field | Type | Required | Notes |
+|-------|------|----------|-------|
+| `id` | `String` | yes | Stable kebab-case identifier, typically `<short-name>-<year>` (e.g. `tryswift-tokyo-2026`). Must be unique. Don't change this once published — favourites in users' apps are keyed on it. |
+| `kind` | `String` | no (default `"Conference"`) | One of `"Conference"` (multi-day developer conference), `"Watch Party"` (a group gathering to stream the WWDC keynote, SOTU, or similar Apple event), `"Meetup"` (a recurring local chapter meeting — CocoaHeads, boulderOS, SLUG, a monthly `.swift` group), or `"Event"` (a one-off gathering — hack days, dinners, runs, WWDC-week satellites). Two rules of thumb: if the primary purpose is watching an Apple stream together, it's a `"Watch Party"`; if it's the September instalment of something that also happens in August and October, it's a `"Meetup"`, not an `"Event"`. |
+| `name` | `String` | yes | Display name as it appears in the app. |
+| `startDate` | `String` | yes | First day, `YYYY-MM-DD`. Inclusive. |
+| `endDate` | `String` | yes | Last day, `YYYY-MM-DD`. Inclusive. Same as `startDate` for one-day events. |
+| `startTime` | `String?` | no | Event-local start time, 24-hour `HH:mm` (e.g. `"19:00"`). Set it for timed **Watch Parties**, **Events** and **Meetups**; omit it for multi-day conferences (they show as all-day). When present, the time appears on the card and the "Add to Calendar" action creates a timed event. |
+| `endTime` | `String?` | no | Event-local end time, 24-hour `HH:mm`. Optional even when `startTime` is set — the calendar event falls back to a 2-hour duration if it's missing. |
+| `timeZone` | `String?` | no | IANA time-zone identifier, e.g. `"Asia/Tokyo"`, `"America/Los_Angeles"`, `"Europe/Berlin"`. Set it for **online** timed events (which have no venue to derive a zone from); for in-person events it's optional and overrides the geocoded zone. Drives the zone shown on the card and used by "Add to Calendar". |
+| `locationName` | `String` | yes | Display string, e.g. `"Tokyo, Japan"` or `"Online"`. |
+| `mapQuery` | `String?` | no | Apple-Maps-friendly query (city, venue, or full address). `null` for online events. The Location row in the detail view becomes tappable when this is set. |
+| `summary` | `String` | yes | One-sentence factual description. **In your own words** — don't copy the site's marketing copy verbatim (see [Legal](#legal) below). Aim for ~100–160 characters. |
+| `websiteURL` | `String` | yes | Conference homepage. Must be HTTPS. |
+| `logoURL` | `String?` | no | Direct link to the conference's logo or `og:image`. Fetched and displayed at runtime — never bundled or redistributed. If absent, the app shows a typographic placeholder. |
+| `tags` | `[String]` | yes | One or more topical tags. Current vocabulary (most used first): `community`, `wwdc`, `swift`, `ios`, `ai`, `indie`, `visionos`, `accessibility`, `swiftui`, `macos`, `apple`, `design`, `general`. Use `wwdc` for any WWDC-week entry. Propose new tags in your PR if you need one. |
+| `hasSchedule` | `Bool?` | no | `true` when `data/schedules/<id>.json` exists. See [Talk schedules](#talk-schedules). |
+
+### Timed events (watch parties & events)
+
+Multi-day conferences are all-day, so they omit `startTime`/`endTime`. A single-evening watch party or event can add an event-local time:
+
+```json
+{
+  "id": "keynote-watch-party-berlin-2026",
+  "kind": "Watch Party",
+  "name": "Berlin WWDC Keynote Watch Party",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-08",
+  "startTime": "18:30",
+  "endTime": "22:00",
+  "locationName": "Berlin, Germany",
+  "mapQuery": "Berlin, Germany",
+  "summary": "Community keynote viewing with talks and drinks afterwards.",
+  "websiteURL": "https://...",
+  "logoURL": null,
+  "tags": ["wwdc", "community"]
+}
+```
+
+Times are the event's **local** wall-clock (no timezone offset) — `"18:30"` shows as `6:30 PM` / `18:30` per the viewer's locale.
+
+For an **online** timed event, add a `timeZone` so the time is unambiguous (there's no venue to derive it from):
+
+```json
+{
+  "id": "online-keynote-watch-2026",
+  "kind": "Watch Party",
+  "name": "Global Online Keynote Watch",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-08",
+  "startTime": "10:00",
+  "timeZone": "America/Los_Angeles",
+  "locationName": "Online",
+  "mapQuery": null,
+  "summary": "Streamed keynote watch-along for the global community.",
+  "websiteURL": "https://...",
+  "logoURL": null,
+  "tags": ["wwdc", "community"]
+}
+```
+
+### Ordering
+
+The file is sorted by `startDate` ascending. Keep it sorted when you add a row — it makes diffs reviewable. Within a day, timed events sort by `startTime`.
+
+### Validating your edit
+
+```bash
+python3 scripts/validate_conferences.py
+```
+
+This checks required fields, date and time formats, HTTPS URLs, IANA time zones, and that every `id` is unique. CI runs it on every pull request, so a PR that fails it can't be merged.
+
+You don't need to touch `README.md`. Its conference list is generated from `conferences.json` after your change is merged.
+---
+
+## Talk schedules
+
+A conference can have a talk schedule in `data/schedules/<conference-id>.json`. The app shows it on the conference's detail page, lets people favourite talks, and drives the conference-day Live Activity. Set `"hasSchedule": true` on the conference in `conferences.json` when you add one.
+
+### Importing (preferred)
+
+If the organiser publishes the schedule on Sessionize or Pretalx, import it instead of typing it:
+
+```bash
+# Sessionize: the event id is in the organiser's sessionize.com/api/v2/<id>/... embed URL
+python3 scripts/import_schedule.py sessionize <event-id> --conference swiftleeds-2026 --time-zone Europe/London
+
+# Pretalx: pass the schedule export URL (the time zone comes from the export)
+python3 scripts/import_schedule.py pretalx https://pretalx.com/<event>/schedule/export/schedule.json --conference <id>
+```
+
+If the Sessionize event is shared with other conferences (an umbrella event), keep only yours with `--room "<room name>"`. You can also add `--category "<category>"` (everything tagged with it, in any room) or `--session <id>` (a single session in a shared room). All three are repeatable. For example, SwiftCon Berlin is part of next.app devCon, and its community meetup is in the shared "Community Meetups" room:
+
+```bash
+python3 scripts/import_schedule.py sessionize yak5yl8m --conference swiftcon-berlin-2026 --time-zone Europe/Berlin \
+  --room "swiftCon 1" --room "swiftCon 2" --room "swiftCon 3" --room Schedule --session 1348320
+```
+
+Re-run the same command when the organiser changes the schedule. Session ids come from the provider's ids, so they stay stable. Review the generated `kind` values, because they're a best guess from titles and categories.
+
+### Schema
+
+```json
+{
+  "conferenceId": "swiftleeds-2026",
+  "timeZone": "Europe/London",
+  "updatedAt": "2026-10-06T12:00:00Z",
+  "rooms": [{ "id": "main-stage", "name": "Main Stage" }],
+  "sessions": [
+    {
+      "id": "swiftleeds-2026-48213",
+      "kind": "talk",
+      "day": "2026-10-13",
+      "start": "09:30",
+      "end": "10:10",
+      "title": "Swift Concurrency in Practice",
+      "speakers": ["Jane Doe"],
+      "roomId": "main-stage",
+      "url": "https://..."
+    },
+    { "id": "swiftleeds-2026-coffee-1", "kind": "break", "day": "2026-10-13", "start": "10:10", "end": "10:40", "title": "Coffee" }
+  ]
+}
+```
+
+| Field | Required | Notes |
+|-------|----------|-------|
+| `conferenceId` | yes | Same as the file name and the conference's `id`. |
+| `timeZone` | yes | The venue's IANA zone. All session times are wall-clock times in this zone. |
+| `updatedAt` | yes | ISO 8601 timestamp of the last edit or import. |
+| `rooms` | yes | Stages or rooms in display order: `id` (kebab-case) and `name`. Use one room for a single-track conference. In that case every talk is on everyone's agenda and the app hides the favourite hearts. |
+| `sessions[].id` | yes | Kebab-case and prefixed with the conference id. **Never change it once published**, because users' talk favourites are keyed on it. |
+| `sessions[].kind` | yes | `keynote`, `talk`, `workshop`, `break` or `social`. Only keynotes, talks and workshops appear on a personal agenda and in the Live Activity. |
+| `sessions[].day` | yes | `YYYY-MM-DD`, within the conference dates. |
+| `sessions[].start` / `end` | yes | Venue-local 24-hour `HH:mm`, with `end` after `start` on the same day. |
+| `sessions[].title` | yes | The talk title as published. |
+| `sessions[].speakers` | no | Speaker display names. |
+| `sessions[].roomId` | talks: yes if 2+ rooms | Must match a `rooms[].id`. Breaks and socials may omit it. |
+| `sessions[].url` | no | HTTPS link to the session page. |
+| `sessions[].description` | no | The session description as the organiser publishes it in their feed (up to 6,000 characters). Shown when the talk is tapped. |
+
+Keep `sessions` sorted by `day`, then `start`. **Descriptions come from the organiser's feed only.** The importer copies them from Sessionize, Pretalx or the conference's own schedule API, and the app credits the organiser. Don't paste text from web pages by hand (see [Legal](#legal)).
+
+### Validating
+
+```bash
+python3 scripts/validate_schedules.py
+```
+
+This checks the schema, time formats, daylight-saving gaps, room references, unique session ids across all schedules, and that every `hasSchedule` conference has a file (and the other way round).
+
+---
+
+## What gets accepted
+
+**Yes:**
+- Conferences focused on Apple platforms (iOS / macOS / visionOS / watchOS / tvOS), Swift, or SwiftUI.
+- General software/dev conferences with a strong, established Apple-platform track.
+- Events around those conferences — meetups, watch parties, hack days, social gatherings (set `"kind": "Event"`).
+- Both in-person and online listings.
+
+**No:**
+- Single-edition events with no announced future date.
+- Vendor sales events.
+- Anything that doesn't have a public website with date and location.
+
+**Pending dates are OK:** if a conference has announced "we're back in 2027" but no day-precise date yet, open an Issue and we'll add it when the dates land.
+
+---
+
+## Legal
+
+A reminder of how this project treats third-party material — relevant to anything you submit:
+
+- **Descriptions are paraphrased.** Don't paste the site's marketing text verbatim. One factual sentence in your own words is the goal.
+- **Logos are never bundled.** `logoURL` points at the conference's own image, and the app fetches it at runtime (same pattern as iMessage / Slack link previews). If a site doesn't have a usable image, leave `logoURL` as `null` — the app falls back to a typographic placeholder.
+- **Trademarks remain with their owners.** Listing a conference doesn't imply endorsement of it by us, or of us by it.

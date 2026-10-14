@@ -1,0 +1,5649 @@
+[
+  {
+    "id": "wwdc-1989",
+    "kind": "Conference",
+    "name": "WWDC 1989",
+    "startDate": "1989-05-08",
+    "endDate": "1989-05-12",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-1990",
+    "kind": "Conference",
+    "name": "WWDC 1990",
+    "startDate": "1990-05-07",
+    "endDate": "1990-05-11",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose Convention Center, San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-1991",
+    "kind": "Conference",
+    "name": "WWDC 1991",
+    "startDate": "1991-05-13",
+    "endDate": "1991-05-17",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-1992",
+    "kind": "Conference",
+    "name": "WWDC 1992",
+    "startDate": "1992-05-11",
+    "endDate": "1992-05-15",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-1993",
+    "kind": "Conference",
+    "name": "WWDC 1993",
+    "startDate": "1993-05-10",
+    "endDate": "1993-05-14",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-1994",
+    "kind": "Conference",
+    "name": "WWDC 1994",
+    "startDate": "1994-05-16",
+    "endDate": "1994-05-20",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-1995",
+    "kind": "Conference",
+    "name": "WWDC 1995",
+    "startDate": "1995-05-08",
+    "endDate": "1995-05-12",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-1996",
+    "kind": "Conference",
+    "name": "WWDC 1996",
+    "startDate": "1996-05-13",
+    "endDate": "1996-05-17",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-1997",
+    "kind": "Conference",
+    "name": "WWDC 1997",
+    "startDate": "1997-05-12",
+    "endDate": "1997-05-16",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-1998",
+    "kind": "Conference",
+    "name": "WWDC 1998",
+    "startDate": "1998-05-11",
+    "endDate": "1998-05-15",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-1999",
+    "kind": "Conference",
+    "name": "WWDC 1999",
+    "startDate": "1999-05-10",
+    "endDate": "1999-05-14",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2000",
+    "kind": "Conference",
+    "name": "WWDC 2000",
+    "startDate": "2000-05-15",
+    "endDate": "2000-05-19",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2001",
+    "kind": "Conference",
+    "name": "WWDC 2001",
+    "startDate": "2001-05-21",
+    "endDate": "2001-05-25",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2002",
+    "kind": "Conference",
+    "name": "WWDC 2002",
+    "startDate": "2002-05-06",
+    "endDate": "2002-05-10",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2003",
+    "kind": "Conference",
+    "name": "WWDC 2003",
+    "startDate": "2003-06-23",
+    "endDate": "2003-06-27",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2004",
+    "kind": "Conference",
+    "name": "WWDC 2004",
+    "startDate": "2004-06-28",
+    "endDate": "2004-07-02",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2005",
+    "kind": "Conference",
+    "name": "WWDC 2005",
+    "startDate": "2005-06-06",
+    "endDate": "2005-06-10",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2006",
+    "kind": "Conference",
+    "name": "WWDC 2006",
+    "startDate": "2006-08-07",
+    "endDate": "2006-08-11",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2007",
+    "kind": "Conference",
+    "name": "WWDC 2007",
+    "startDate": "2007-06-11",
+    "endDate": "2007-06-15",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2008",
+    "kind": "Conference",
+    "name": "WWDC 2008",
+    "startDate": "2008-06-09",
+    "endDate": "2008-06-13",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2009",
+    "kind": "Conference",
+    "name": "WWDC 2009",
+    "startDate": "2009-06-08",
+    "endDate": "2009-06-12",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2010",
+    "kind": "Conference",
+    "name": "WWDC 2010",
+    "startDate": "2010-06-07",
+    "endDate": "2010-06-11",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2011",
+    "kind": "Conference",
+    "name": "WWDC 2011",
+    "startDate": "2011-06-06",
+    "endDate": "2011-06-10",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "iosdevuk-2011",
+    "kind": "Conference",
+    "name": "iOSDevUK 2011",
+    "startDate": "2011-09-07",
+    "endDate": "2011-09-09",
+    "locationName": "Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "mdevcon-2012",
+    "kind": "Conference",
+    "name": "mdevcon 2012",
+    "startDate": "2012-03-10",
+    "endDate": "2012-03-10",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Tuschinski Theater, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2012",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2012",
+    "startDate": "2012-05-02",
+    "endDate": "2012-05-04",
+    "locationName": "University Park, PA, USA",
+    "mapQuery": "Penn State, University Park, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "wwdc-2012",
+    "kind": "Conference",
+    "name": "WWDC 2012",
+    "startDate": "2012-06-11",
+    "endDate": "2012-06-15",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "macsysadmin-2012",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2012",
+    "startDate": "2012-09-11",
+    "endDate": "2012-09-14",
+    "locationName": "Gothenburg, Sweden",
+    "mapQuery": "Gothenburg, Sweden",
+    "summary": "Long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "mdevcon-2013",
+    "kind": "Conference",
+    "name": "mdevcon 2013",
+    "startDate": "2013-03-14",
+    "endDate": "2013-03-15",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Tuschinski Theater, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2013",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2013",
+    "startDate": "2013-05-21",
+    "endDate": "2013-05-24",
+    "locationName": "University Park, PA, USA",
+    "mapQuery": "Penn State, University Park, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "wwdc-2013",
+    "kind": "Conference",
+    "name": "WWDC 2013",
+    "startDate": "2013-06-10",
+    "endDate": "2013-06-14",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "iosdevuk-2013",
+    "kind": "Conference",
+    "name": "iOSDevUK 2013",
+    "startDate": "2013-09-03",
+    "endDate": "2013-09-05",
+    "locationName": "Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "macsysadmin-2013",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2013",
+    "startDate": "2013-09-17",
+    "endDate": "2013-09-20",
+    "locationName": "Gothenburg, Sweden",
+    "mapQuery": "Gothenburg, Sweden",
+    "summary": "Long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "mdevcon-2014",
+    "kind": "Conference",
+    "name": "mdevcon 2014",
+    "startDate": "2014-03-07",
+    "endDate": "2014-03-08",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Tuschinski Theater, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "mobius-2014",
+    "kind": "Conference",
+    "name": "Mobius 2014",
+    "startDate": "2014-03-14",
+    "endDate": "2014-03-14",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2014",
+    "kind": "Conference",
+    "name": "WWDC 2014",
+    "startDate": "2014-06-02",
+    "endDate": "2014-06-06",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2014",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2014",
+    "startDate": "2014-07-07",
+    "endDate": "2014-07-11",
+    "locationName": "State College, PA, USA",
+    "mapQuery": "State College, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "iosdevuk-2014",
+    "kind": "Conference",
+    "name": "iOSDevUK 2014",
+    "startDate": "2014-09-02",
+    "endDate": "2014-09-04",
+    "locationName": "Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "mdevcon-2015",
+    "kind": "Conference",
+    "name": "mdevcon 2015",
+    "startDate": "2015-03-05",
+    "endDate": "2015-03-06",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Tuschinski Theater, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "mobius-2015",
+    "kind": "Conference",
+    "name": "Mobius 2015",
+    "startDate": "2015-04-03",
+    "endDate": "2015-04-03",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2015",
+    "kind": "Conference",
+    "name": "WWDC 2015",
+    "startDate": "2015-06-08",
+    "endDate": "2015-06-12",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Moscone Center West, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2015",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2015",
+    "startDate": "2015-07-06",
+    "endDate": "2015-07-10",
+    "locationName": "State College, PA, USA",
+    "mapQuery": "The Penn Stater Hotel and Conference Center, State College, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "iosdevuk-2015",
+    "kind": "Conference",
+    "name": "iOSDevUK 2015",
+    "startDate": "2015-09-07",
+    "endDate": "2015-09-10",
+    "locationName": "Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2015",
+    "kind": "Conference",
+    "name": "NSSpain 2015",
+    "startDate": "2015-09-15",
+    "endDate": "2015-09-18",
+    "locationName": "Logroño, Spain",
+    "mapQuery": "Riojaforum, Logroño, Spain",
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "do-ios-2015",
+    "kind": "Conference",
+    "name": "Do iOS 2015",
+    "startDate": "2015-11-09",
+    "endDate": "2015-11-10",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Pakhuis de Zwijger, Amsterdam, Netherlands",
+    "summary": "Amsterdam's iOS conference: a workshop day plus talks.",
+    "websiteURL": "https://do-ios.com",
+    "logoURL": "https://do-ios.com/images/card.png?v=2026",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "tryswift-tokyo-2016",
+    "kind": "Conference",
+    "name": "try! Swift Tokyo 2016",
+    "startDate": "2016-03-02",
+    "endDate": "2016-03-04",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Tokyo, Japan",
+    "summary": "International Swift conference in Tokyo: a workshop day followed by talks from developers around the world.",
+    "websiteURL": "https://tryswift.jp",
+    "logoURL": "https://tryswift.jp/images/ogp.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "ai"
+    ]
+  },
+  {
+    "id": "mdevcon-2016",
+    "kind": "Conference",
+    "name": "mdevcon 2016",
+    "startDate": "2016-03-17",
+    "endDate": "2016-03-18",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Tuschinski Theater, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "mobius-2016",
+    "kind": "Conference",
+    "name": "Mobius 2016",
+    "startDate": "2016-06-04",
+    "endDate": "2016-06-04",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2016",
+    "kind": "Conference",
+    "name": "WWDC 2016",
+    "startDate": "2016-06-13",
+    "endDate": "2016-06-17",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Bill Graham Civic Auditorium, San Francisco, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2016",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2016",
+    "startDate": "2016-06-26",
+    "endDate": "2016-06-30",
+    "locationName": "State College, PA, USA",
+    "mapQuery": "The Penn Stater Hotel and Conference Center, State College, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "iosdevuk-2016",
+    "kind": "Conference",
+    "name": "iOSDevUK 2016",
+    "startDate": "2016-09-05",
+    "endDate": "2016-09-08",
+    "locationName": "Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2016",
+    "kind": "Conference",
+    "name": "NSSpain 2016",
+    "startDate": "2016-09-14",
+    "endDate": "2016-09-16",
+    "locationName": "Logroño, Spain",
+    "mapQuery": "Riojaforum, San Millán 25, Logroño, Spain",
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "frenchkit-2016",
+    "kind": "Conference",
+    "name": "FrenchKit 2016",
+    "startDate": "2016-09-23",
+    "endDate": "2016-09-24",
+    "locationName": "Paris, France",
+    "mapQuery": "Pan Piper, Paris, France",
+    "summary": "Paris conference for the Swift and Apple platforms community, focused on practical talks and conversations.",
+    "websiteURL": "https://swiftconnection.io",
+    "logoURL": "https://swiftconnection.io/static/c7d63e77c83a2e3734e24fda2934cdb3/badge.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2016",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2016",
+    "startDate": "2016-10-20",
+    "endDate": "2016-10-21",
+    "locationName": "Singapore",
+    "mapQuery": "Theatre for the Arts, Nanyang Polytechnic, 180 Ang Mo Kio Ave 8, Singapore",
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "do-ios-2016",
+    "kind": "Conference",
+    "name": "Do iOS 2016",
+    "startDate": "2016-11-15",
+    "endDate": "2016-11-16",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Pakhuis de Zwijger, Amsterdam, Netherlands",
+    "summary": "Amsterdam's iOS conference: a workshop day plus talks.",
+    "websiteURL": "https://do-ios.com",
+    "logoURL": "https://do-ios.com/images/card.png?v=2026",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "tryswift-tokyo-2017",
+    "kind": "Conference",
+    "name": "try! Swift Tokyo 2017",
+    "startDate": "2017-03-02",
+    "endDate": "2017-03-04",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Bellesalle Shinjuku Central Park, Tokyo, Japan",
+    "summary": "International Swift conference in Tokyo: a workshop day followed by talks from developers around the world.",
+    "websiteURL": "https://tryswift.jp",
+    "logoURL": "https://tryswift.jp/images/ogp.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "ai"
+    ]
+  },
+  {
+    "id": "appdevcon-2017",
+    "kind": "Conference",
+    "name": "Appdevcon 2017",
+    "startDate": "2017-03-16",
+    "endDate": "2017-03-17",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Pathé Arena, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "mobius-spring-2017",
+    "kind": "Conference",
+    "name": "Mobius 2017 Spring",
+    "startDate": "2017-04-21",
+    "endDate": "2017-04-22",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2017",
+    "kind": "Conference",
+    "name": "WWDC 2017",
+    "startDate": "2017-06-05",
+    "endDate": "2017-06-09",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose McEnery Convention Center, San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2017",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2017",
+    "startDate": "2017-07-10",
+    "endDate": "2017-07-14",
+    "locationName": "State College, PA, USA",
+    "mapQuery": "The Penn Stater Hotel and Conference Center, State College, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "iosdevuk-2017",
+    "kind": "Conference",
+    "name": "iOSDevUK 2017",
+    "startDate": "2017-09-04",
+    "endDate": "2017-09-07",
+    "locationName": "Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2017",
+    "kind": "Conference",
+    "name": "NSSpain 2017",
+    "startDate": "2017-09-13",
+    "endDate": "2017-09-15",
+    "locationName": "Logroño, Spain",
+    "mapQuery": "Riojaforum, Logroño, Spain",
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "frenchkit-2017",
+    "kind": "Conference",
+    "name": "FrenchKit 2017",
+    "startDate": "2017-09-22",
+    "endDate": "2017-09-23",
+    "locationName": "Paris, France",
+    "mapQuery": "Pan Piper, Paris, France",
+    "summary": "Paris conference for the Swift and Apple platforms community, focused on practical talks and conversations.",
+    "websiteURL": "https://swiftconnection.io",
+    "logoURL": "https://swiftconnection.io/static/c7d63e77c83a2e3734e24fda2934cdb3/badge.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "macsysadmin-2017",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2017",
+    "startDate": "2017-10-03",
+    "endDate": "2017-10-06",
+    "locationName": "Gothenburg, Sweden",
+    "mapQuery": "Gothenburg, Sweden",
+    "summary": "Long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2017",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2017",
+    "startDate": "2017-10-19",
+    "endDate": "2017-10-20",
+    "locationName": "Singapore",
+    "mapQuery": "Theatre for the Arts, Nanyang Polytechnic, Singapore",
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "mobius-autumn-2017",
+    "kind": "Conference",
+    "name": "Mobius 2017 Autumn",
+    "startDate": "2017-11-12",
+    "endDate": "2017-11-13",
+    "locationName": "Moscow, Russia",
+    "mapQuery": "Moscow, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "tryswift-tokyo-2018",
+    "kind": "Conference",
+    "name": "try! Swift Tokyo 2018",
+    "startDate": "2018-03-01",
+    "endDate": "2018-03-03",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Bellesalle Shinjuku Grand Conference Center, Tokyo, Japan",
+    "summary": "International Swift conference in Tokyo: a workshop day followed by talks from developers around the world.",
+    "websiteURL": "https://tryswift.jp",
+    "logoURL": "https://tryswift.jp/images/ogp.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "ai"
+    ]
+  },
+  {
+    "id": "appdevcon-2018",
+    "kind": "Conference",
+    "name": "Appdevcon 2018",
+    "startDate": "2018-03-12",
+    "endDate": "2018-03-16",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Pathé Arena, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "mobius-spring-2018",
+    "kind": "Conference",
+    "name": "Mobius 2018 Spring",
+    "startDate": "2018-04-20",
+    "endDate": "2018-04-21",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2018",
+    "kind": "Conference",
+    "name": "WWDC 2018",
+    "startDate": "2018-06-04",
+    "endDate": "2018-06-08",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose McEnery Convention Center, San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "swift-island-2018",
+    "kind": "Conference",
+    "name": "Swift Island 2018",
+    "startDate": "2018-07-04",
+    "endDate": "2018-07-05",
+    "locationName": "Texel, Netherlands",
+    "mapQuery": "Prins Hendrik Hotel and Bungalows, Texel, Netherlands",
+    "summary": "Island-based Swift conference on Texel built around small, hands-on workshops with expert mentors.",
+    "websiteURL": "https://swiftisland.nl",
+    "logoURL": "https://framerusercontent.com/images/qVsXCRdVU8lIeMVkkmGqTdSOwZU.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2018",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2018",
+    "startDate": "2018-07-09",
+    "endDate": "2018-07-13",
+    "locationName": "State College, PA, USA",
+    "mapQuery": "The Penn Stater Hotel and Conference Center, State College, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "iosdevuk-2018",
+    "kind": "Conference",
+    "name": "iOSDevUK 2018",
+    "startDate": "2018-09-03",
+    "endDate": "2018-09-06",
+    "locationName": "Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2018",
+    "kind": "Conference",
+    "name": "NSSpain 2018",
+    "startDate": "2018-09-12",
+    "endDate": "2018-09-14",
+    "locationName": "Logroño, Spain",
+    "mapQuery": "Riojaforum, San Millán 25, Logroño, Spain",
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "frenchkit-2018",
+    "kind": "Conference",
+    "name": "FrenchKit 2018",
+    "startDate": "2018-09-20",
+    "endDate": "2018-09-21",
+    "locationName": "Paris, France",
+    "mapQuery": "Pan Piper, Paris, France",
+    "summary": "Paris conference for the Swift and Apple platforms community, focused on practical talks and conversations.",
+    "websiteURL": "https://swiftconnection.io",
+    "logoURL": "https://swiftconnection.io/static/c7d63e77c83a2e3734e24fda2934cdb3/badge.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "iplayground-2018",
+    "kind": "Conference",
+    "name": "iPlayground 2018",
+    "startDate": "2018-10-20",
+    "endDate": "2018-10-21",
+    "locationName": "Taipei, Taiwan",
+    "mapQuery": "NTU College of Management, Taipei, Taiwan",
+    "summary": "Taiwan's Apple-platform developer conference covering Swift and iOS/macOS development.",
+    "websiteURL": "https://iplayground.io/2026/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "ai",
+      "design"
+    ]
+  },
+  {
+    "id": "do-ios-2018",
+    "kind": "Conference",
+    "name": "Do iOS 2018",
+    "startDate": "2018-11-01",
+    "endDate": "2018-11-02",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Parool Theater, Amsterdam, Netherlands",
+    "summary": "Amsterdam's iOS conference: a workshop day plus talks.",
+    "websiteURL": "https://do-ios.com",
+    "logoURL": "https://do-ios.com/images/card.png?v=2026",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "mobius-autumn-2018",
+    "kind": "Conference",
+    "name": "Mobius 2018 Autumn",
+    "startDate": "2018-12-08",
+    "endDate": "2018-12-09",
+    "locationName": "Moscow, Russia",
+    "mapQuery": "Moscow, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2019",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2019",
+    "startDate": "2019-01-17",
+    "endDate": "2019-01-19",
+    "locationName": "Singapore",
+    "mapQuery": "Matrix @ Biopolis, 30 Biopolis St, Singapore",
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "appdevcon-2019",
+    "kind": "Conference",
+    "name": "Appdevcon 2019",
+    "startDate": "2019-03-12",
+    "endDate": "2019-03-15",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Pathé De Munt, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "tryswift-tokyo-2019",
+    "kind": "Conference",
+    "name": "try! Swift Tokyo 2019",
+    "startDate": "2019-03-21",
+    "endDate": "2019-03-23",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Belle Salle Shibuya First, Tokyo, Japan",
+    "summary": "International Swift conference in Tokyo: a workshop day followed by talks from developers around the world.",
+    "websiteURL": "https://tryswift.jp",
+    "logoURL": "https://tryswift.jp/images/ogp.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "ai"
+    ]
+  },
+  {
+    "id": "mobius-spring-2019",
+    "kind": "Conference",
+    "name": "Mobius 2019 Spring",
+    "startDate": "2019-05-22",
+    "endDate": "2019-05-23",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2019",
+    "kind": "Conference",
+    "name": "WWDC 2019",
+    "startDate": "2019-06-03",
+    "endDate": "2019-06-07",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Jose McEnery Convention Center, San Jose, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "swift-island-2019",
+    "kind": "Conference",
+    "name": "Swift Island 2019",
+    "startDate": "2019-07-03",
+    "endDate": "2019-07-04",
+    "locationName": "Texel, Netherlands",
+    "mapQuery": "Prins Hendrik Hotel and Bungalows, Texel, Netherlands",
+    "summary": "Island-based Swift conference on Texel built around small, hands-on workshops with expert mentors.",
+    "websiteURL": "https://swiftisland.nl",
+    "logoURL": "https://framerusercontent.com/images/qVsXCRdVU8lIeMVkkmGqTdSOwZU.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2019",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2019",
+    "startDate": "2019-07-08",
+    "endDate": "2019-07-12",
+    "locationName": "State College, PA, USA",
+    "mapQuery": "The Penn Stater Hotel and Conference Center, State College, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "iosdevuk-2019",
+    "kind": "Conference",
+    "name": "iOSDevUK 2019",
+    "startDate": "2019-09-02",
+    "endDate": "2019-09-05",
+    "locationName": "Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2019",
+    "kind": "Conference",
+    "name": "NSSpain 2019",
+    "startDate": "2019-09-18",
+    "endDate": "2019-09-20",
+    "locationName": "Logroño, Spain",
+    "mapQuery": "Riojaforum, Logroño, Spain",
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "iplayground-2019",
+    "kind": "Conference",
+    "name": "iPlayground 2019",
+    "startDate": "2019-09-21",
+    "endDate": "2019-09-22",
+    "locationName": "Taipei, Taiwan",
+    "mapQuery": "NTU Boya Hall, Taipei, Taiwan",
+    "summary": "Taiwan's Apple-platform developer conference covering Swift and iOS/macOS development.",
+    "websiteURL": "https://iplayground.io/2026/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "ai",
+      "design"
+    ]
+  },
+  {
+    "id": "macsysadmin-2019",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2019",
+    "startDate": "2019-10-01",
+    "endDate": "2019-10-04",
+    "locationName": "Gothenburg, Sweden",
+    "mapQuery": "Gothenburg, Sweden",
+    "summary": "Long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "frenchkit-2019",
+    "kind": "Conference",
+    "name": "FrenchKit 2019",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-08",
+    "locationName": "Montrouge, France",
+    "mapQuery": "Le Beffroi de Montrouge, Montrouge, France",
+    "summary": "Paris conference for the Swift and Apple platforms community, focused on practical talks and conversations.",
+    "websiteURL": "https://swiftconnection.io",
+    "logoURL": "https://swiftconnection.io/static/c7d63e77c83a2e3734e24fda2934cdb3/badge.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "mobius-autumn-2019",
+    "kind": "Conference",
+    "name": "Mobius 2019 Autumn",
+    "startDate": "2019-12-07",
+    "endDate": "2019-12-08",
+    "locationName": "Moscow, Russia",
+    "mapQuery": "Moscow, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2020",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2020",
+    "startDate": "2020-01-15",
+    "endDate": "2020-01-18",
+    "locationName": "Singapore",
+    "mapQuery": "Shaw Foundation Alumni House, NUS, 11 Kent Ridge Dr, Singapore",
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "mobius-spring-2020",
+    "kind": "Conference",
+    "name": "Mobius 2020 Spring",
+    "startDate": "2020-06-22",
+    "endDate": "2020-06-25",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2020",
+    "kind": "Conference",
+    "name": "WWDC 2020",
+    "startDate": "2020-06-22",
+    "endDate": "2020-06-26",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "frenchkit-2020",
+    "kind": "Conference",
+    "name": "FrenchKit 2020",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-02",
+    "locationName": "Paris, France",
+    "mapQuery": "Pan Piper, Paris, France",
+    "summary": "Paris conference for the Swift and Apple platforms community, focused on practical talks and conversations.",
+    "websiteURL": "https://swiftconnection.io",
+    "logoURL": "https://swiftconnection.io/static/c7d63e77c83a2e3734e24fda2934cdb3/badge.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "macsysadmin-2020",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2020",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-09",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "iplayground-2020",
+    "kind": "Conference",
+    "name": "iPlayground 2020",
+    "startDate": "2020-11-08",
+    "endDate": "2020-11-08",
+    "locationName": "Taipei, Taiwan",
+    "mapQuery": "Chang Yung-Fa Foundation International Convention Center, 8F No. 11 Zhongshan S. Rd, Taipei, Taiwan",
+    "summary": "Taiwan's Apple-platform developer conference covering Swift and iOS/macOS development.",
+    "websiteURL": "https://iplayground.io/2026/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "ai",
+      "design"
+    ]
+  },
+  {
+    "id": "mobius-autumn-2020",
+    "kind": "Conference",
+    "name": "Mobius 2020 Autumn",
+    "startDate": "2020-11-11",
+    "endDate": "2020-11-14",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2020",
+    "kind": "Conference",
+    "name": "NSSpain 2020",
+    "startDate": "2020-11-19",
+    "endDate": "2020-11-20",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2021",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2021",
+    "startDate": "2021-01-18",
+    "endDate": "2021-01-22",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "mobius-spring-2021",
+    "kind": "Conference",
+    "name": "Mobius 2021 Spring",
+    "startDate": "2021-04-13",
+    "endDate": "2021-04-16",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2021",
+    "kind": "Conference",
+    "name": "WWDC 2021",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-11",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "macsysadmin-2021",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2021",
+    "startDate": "2021-10-05",
+    "endDate": "2021-10-08",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "swiftleeds-2021",
+    "kind": "Conference",
+    "name": "SwiftLeeds 2021",
+    "startDate": "2021-10-07",
+    "endDate": "2021-10-07",
+    "locationName": "Leeds, UK",
+    "mapQuery": "The Carriageworks Theatre, Millennium Square, Leeds, UK",
+    "summary": "Community-run, non-profit Swift conference in Leeds.",
+    "websiteURL": "https://swiftleeds.co.uk",
+    "logoURL": "https://swiftleeds.co.uk/img/logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2021",
+    "kind": "Conference",
+    "name": "NSSpain 2021",
+    "startDate": "2021-11-18",
+    "endDate": "2021-11-19",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "mobius-autumn-2021",
+    "kind": "Conference",
+    "name": "Mobius 2021 Autumn",
+    "startDate": "2021-11-22",
+    "endDate": "2021-11-25",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2022",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2022",
+    "startDate": "2022-01-17",
+    "endDate": "2022-01-21",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "wwdc-2022",
+    "kind": "Conference",
+    "name": "WWDC 2022",
+    "startDate": "2022-06-06",
+    "endDate": "2022-06-10",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Apple Park, Cupertino, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "appdevcon-2022",
+    "kind": "Conference",
+    "name": "Appdevcon 2022",
+    "startDate": "2022-06-20",
+    "endDate": "2022-06-24",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Pathé Amsterdam Noord, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "mobius-spring-2022",
+    "kind": "Conference",
+    "name": "Mobius 2022 Spring",
+    "startDate": "2022-06-22",
+    "endDate": "2022-06-22",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2022",
+    "kind": "Conference",
+    "name": "NSSpain 2022",
+    "startDate": "2022-09-14",
+    "endDate": "2022-09-16",
+    "locationName": "Logroño, Spain",
+    "mapQuery": "Riojaforum, Logroño, Spain",
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "frenchkit-2022",
+    "kind": "Conference",
+    "name": "FrenchKit 2022",
+    "startDate": "2022-09-29",
+    "endDate": "2022-09-30",
+    "locationName": "Paris, France",
+    "mapQuery": "Pan Piper, Paris, France",
+    "summary": "Paris conference for the Swift and Apple platforms community, focused on practical talks and conversations.",
+    "websiteURL": "https://swiftconnection.io",
+    "logoURL": "https://swiftconnection.io/static/c7d63e77c83a2e3734e24fda2934cdb3/badge.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "macsysadmin-2022",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2022",
+    "startDate": "2022-10-04",
+    "endDate": "2022-10-07",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "swiftleeds-2022",
+    "kind": "Conference",
+    "name": "SwiftLeeds 2022",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-20",
+    "locationName": "Leeds, UK",
+    "mapQuery": "Leeds Playhouse, Leeds, UK",
+    "summary": "Community-run, non-profit Swift conference in Leeds.",
+    "websiteURL": "https://swiftleeds.co.uk",
+    "logoURL": "https://swiftleeds.co.uk/img/logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "do-ios-2022",
+    "kind": "Conference",
+    "name": "Do iOS 2022",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-09",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Parool Theater, Amsterdam, Netherlands",
+    "summary": "Amsterdam's iOS conference: a workshop day plus talks.",
+    "websiteURL": "https://do-ios.com",
+    "logoURL": "https://do-ios.com/images/card.png?v=2026",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "mobius-autumn-2022",
+    "kind": "Conference",
+    "name": "Mobius 2022 Autumn",
+    "startDate": "2022-11-21",
+    "endDate": "2022-11-21",
+    "locationName": "Moscow, Russia",
+    "mapQuery": "Moscow, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2023",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2023",
+    "startDate": "2023-01-12",
+    "endDate": "2023-01-13",
+    "locationName": "Singapore",
+    "mapQuery": "Shaw Foundation Alumni House, NUS, Singapore",
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "deep-dish-swift-2023",
+    "kind": "Conference",
+    "name": "Deep Dish Swift 2023",
+    "startDate": "2023-04-30",
+    "endDate": "2023-05-02",
+    "locationName": "Rosemont, Illinois, USA",
+    "mapQuery": "Loews Chicago O'Hare Hotel, Rosemont, Illinois, USA",
+    "summary": "Chicago-area Swift developer conference with technical talks, indie dev sessions and community events.",
+    "websiteURL": "https://deepdishswift.com",
+    "logoURL": "https://deepdishswift.com/assets/images/2026/deep-dish-logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "appdevcon-2023",
+    "kind": "Conference",
+    "name": "Appdevcon 2023",
+    "startDate": "2023-05-09",
+    "endDate": "2023-05-12",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Pathé Amsterdam Noord, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "mobius-spring-2023",
+    "kind": "Conference",
+    "name": "Mobius 2023 Spring",
+    "startDate": "2023-05-19",
+    "endDate": "2023-05-20",
+    "locationName": "Moscow, Russia",
+    "mapQuery": "Moscow, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2023",
+    "kind": "Conference",
+    "name": "WWDC 2023",
+    "startDate": "2023-06-05",
+    "endDate": "2023-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Apple Park, Cupertino, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2023",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2023",
+    "startDate": "2023-07-17",
+    "endDate": "2023-07-21",
+    "locationName": "State College, PA, USA",
+    "mapQuery": "The Penn Stater Hotel and Conference Center, State College, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "iosdevuk-2023",
+    "kind": "Conference",
+    "name": "iOSDevUK 2023",
+    "startDate": "2023-09-04",
+    "endDate": "2023-09-07",
+    "locationName": "Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-island-2023",
+    "kind": "Conference",
+    "name": "Swift Island 2023",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-06",
+    "locationName": "Texel, Netherlands",
+    "mapQuery": "Prins Hendrik Hotel and Bungalows, Texel, Netherlands",
+    "summary": "Island-based Swift conference on Texel built around small, hands-on workshops with expert mentors.",
+    "websiteURL": "https://swiftisland.nl",
+    "logoURL": "https://framerusercontent.com/images/qVsXCRdVU8lIeMVkkmGqTdSOwZU.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2023",
+    "kind": "Conference",
+    "name": "NSSpain 2023",
+    "startDate": "2023-09-13",
+    "endDate": "2023-09-15",
+    "locationName": "Logroño, Spain",
+    "mapQuery": "Riojaforum, Logroño, Spain",
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "swift-connection-2023",
+    "kind": "Conference",
+    "name": "Swift Connection 2023",
+    "startDate": "2023-09-21",
+    "endDate": "2023-09-22",
+    "locationName": "Paris, France",
+    "mapQuery": "Pan Piper, Paris, France",
+    "summary": "Paris conference for the Swift and Apple platforms community, focused on practical talks and conversations.",
+    "websiteURL": "https://swiftconnection.io",
+    "logoURL": "https://swiftconnection.io/static/c7d63e77c83a2e3734e24fda2934cdb3/badge.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "macsysadmin-2023",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2023",
+    "startDate": "2023-10-03",
+    "endDate": "2023-10-06",
+    "locationName": "Gothenburg, Sweden",
+    "mapQuery": "Gothenburg, Sweden",
+    "summary": "Long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "swiftleeds-2023",
+    "kind": "Conference",
+    "name": "SwiftLeeds 2023",
+    "startDate": "2023-10-09",
+    "endDate": "2023-10-10",
+    "locationName": "Leeds, UK",
+    "mapQuery": "Leeds Playhouse, Leeds, UK",
+    "summary": "Community-run, non-profit Swift conference in Leeds.",
+    "websiteURL": "https://swiftleeds.co.uk",
+    "logoURL": "https://swiftleeds.co.uk/img/logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "do-ios-2023",
+    "kind": "Conference",
+    "name": "Do iOS 2023",
+    "startDate": "2023-11-07",
+    "endDate": "2023-11-09",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "NEMO Science Museum, Amsterdam, Netherlands",
+    "summary": "Amsterdam's iOS conference: a workshop day plus talks.",
+    "websiteURL": "https://do-ios.com",
+    "logoURL": "https://do-ios.com/images/card.png?v=2026",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "mobius-autumn-2023",
+    "kind": "Conference",
+    "name": "Mobius 2023 Autumn",
+    "startDate": "2023-11-09",
+    "endDate": "2023-11-10",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2024",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2024",
+    "startDate": "2024-01-18",
+    "endDate": "2024-01-19",
+    "locationName": "Singapore",
+    "mapQuery": "SingPost Auditorium, Singapore Post Centre, 10 Eunos Rd 8, Singapore",
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "appdevcon-2024",
+    "kind": "Conference",
+    "name": "Appdevcon 2024",
+    "startDate": "2024-03-12",
+    "endDate": "2024-03-15",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Pathé Amsterdam Noord, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "tryswift-tokyo-2024",
+    "kind": "Conference",
+    "name": "try! Swift Tokyo 2024",
+    "startDate": "2024-03-22",
+    "endDate": "2024-03-24",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Shibuya Stream Hall, Tokyo, Japan",
+    "summary": "International Swift conference in Tokyo: a workshop day followed by talks from developers around the world.",
+    "websiteURL": "https://tryswift.jp",
+    "logoURL": "https://tryswift.jp/images/ogp.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "ai"
+    ]
+  },
+  {
+    "id": "lets-vision-2024",
+    "kind": "Conference",
+    "name": "Let's visionOS 2024",
+    "startDate": "2024-03-30",
+    "endDate": "2024-03-31",
+    "locationName": "Beijing, China",
+    "mapQuery": "Civil Aviation International Conference Center, Beijing, China",
+    "summary": "Spatial computing and AI conference for Vision Pro, XR and Apple-platform developers and creators.",
+    "websiteURL": "https://letsvision.swiftgg.team",
+    "logoURL": "https://framerusercontent.com/images/djs5wcxx7xM76k9bupA6Tmfvc.png",
+    "tags": [
+      "visionos",
+      "ai",
+      "swift"
+    ]
+  },
+  {
+    "id": "deep-dish-swift-2024",
+    "kind": "Conference",
+    "name": "Deep Dish Swift 2024",
+    "startDate": "2024-05-05",
+    "endDate": "2024-05-07",
+    "locationName": "Rosemont, Illinois, USA",
+    "mapQuery": "Loews Chicago O'Hare Hotel, Rosemont, Illinois, USA",
+    "summary": "Chicago-area Swift developer conference with technical talks, indie dev sessions and community events.",
+    "websiteURL": "https://deepdishswift.com",
+    "logoURL": "https://deepdishswift.com/assets/images/2026/deep-dish-logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "ioskonf-2024",
+    "kind": "Conference",
+    "name": "iOSKonf24",
+    "startDate": "2024-05-14",
+    "endDate": "2024-05-15",
+    "locationName": "Skopje, North Macedonia",
+    "mapQuery": "Limak Skopje Luxury Hotel, Skopje, North Macedonia",
+    "summary": "iOS developer conference in Skopje organised by CocoaHeadsMK: a workshop day plus talks.",
+    "websiteURL": "https://ioskonf.mk",
+    "logoURL": "https://ioskonf.mk/assets/share-ticket.png",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "swiftcraft-2024",
+    "kind": "Conference",
+    "name": "Swift Craft 2024",
+    "startDate": "2024-05-21",
+    "endDate": "2024-05-24",
+    "locationName": "Folkestone, UK",
+    "mapQuery": "Leas Cliff Hall, Folkestone, UK",
+    "summary": "Workshops, tutorials and a two-day Swift conference at Leas Cliff Hall on the Kent coast.",
+    "websiteURL": "https://swiftcraft.uk",
+    "logoURL": "https://swiftcraft.uk/static/img/logos/swiftcraft-logo-sq.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "mobius-spring-2024",
+    "kind": "Conference",
+    "name": "Mobius 2024 Spring",
+    "startDate": "2024-05-31",
+    "endDate": "2024-06-01",
+    "locationName": "Moscow, Russia",
+    "mapQuery": "Moscow, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2024",
+    "kind": "Conference",
+    "name": "WWDC 2024",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-14",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Apple Park, Cupertino, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2024",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2024",
+    "startDate": "2024-07-08",
+    "endDate": "2024-07-12",
+    "locationName": "State College, PA, USA",
+    "mapQuery": "The Penn Stater Hotel and Conference Center, State College, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "swift-island-2024",
+    "kind": "Conference",
+    "name": "Swift Island 2024",
+    "startDate": "2024-08-27",
+    "endDate": "2024-08-29",
+    "locationName": "Texel, Netherlands",
+    "mapQuery": "Prins Hendrik Hotel and Bungalows, Texel, Netherlands",
+    "summary": "Island-based Swift conference on Texel built around small, hands-on workshops with expert mentors.",
+    "websiteURL": "https://swiftisland.nl",
+    "logoURL": "https://framerusercontent.com/images/qVsXCRdVU8lIeMVkkmGqTdSOwZU.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "iosdevuk-2024",
+    "kind": "Conference",
+    "name": "iOSDevUK 2024",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-05",
+    "locationName": "Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2024",
+    "kind": "Conference",
+    "name": "NSSpain 2024",
+    "startDate": "2024-09-17",
+    "endDate": "2024-09-19",
+    "locationName": "Logroño, Spain",
+    "mapQuery": "Riojaforum, Logroño, Spain",
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "swift-connection-2024",
+    "kind": "Conference",
+    "name": "Swift Connection 2024",
+    "startDate": "2024-09-23",
+    "endDate": "2024-09-24",
+    "locationName": "Paris, France",
+    "mapQuery": "Théâtre de Paris, Paris, France",
+    "summary": "Paris conference for the Swift and Apple platforms community, focused on practical talks and conversations.",
+    "websiteURL": "https://swiftconnection.io",
+    "logoURL": "https://swiftconnection.io/static/c7d63e77c83a2e3734e24fda2934cdb3/badge.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "macsysadmin-2024",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2024",
+    "startDate": "2024-10-01",
+    "endDate": "2024-10-04",
+    "locationName": "Gothenburg, Sweden",
+    "mapQuery": "Gothenburg, Sweden",
+    "summary": "Long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "swiftleeds-2024",
+    "kind": "Conference",
+    "name": "SwiftLeeds 2024",
+    "startDate": "2024-10-08",
+    "endDate": "2024-10-09",
+    "locationName": "Leeds, UK",
+    "mapQuery": "The Playhouse, Leeds, UK",
+    "summary": "Community-run, non-profit Swift conference in Leeds.",
+    "websiteURL": "https://swiftleeds.co.uk",
+    "logoURL": "https://swiftleeds.co.uk/img/logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "mobius-autumn-2024",
+    "kind": "Conference",
+    "name": "Mobius 2024 Autumn",
+    "startDate": "2024-10-19",
+    "endDate": "2024-10-20",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "iplayground-2024",
+    "kind": "Conference",
+    "name": "iPlayground 2024",
+    "startDate": "2024-11-03",
+    "endDate": "2024-11-03",
+    "locationName": "Taipei, Taiwan",
+    "mapQuery": "左鄰右舍多功能活動空間, B2F No. 569 Mingshui Rd, Zhongshan District, Taipei, Taiwan",
+    "summary": "Taiwan's Apple-platform developer conference covering Swift and iOS/macOS development.",
+    "websiteURL": "https://iplayground.io/2026/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "ai",
+      "design"
+    ]
+  },
+  {
+    "id": "do-ios-2024",
+    "kind": "Conference",
+    "name": "Do iOS 2024",
+    "startDate": "2024-11-12",
+    "endDate": "2024-11-14",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "NEMO Science Museum, Amsterdam, Netherlands",
+    "summary": "Amsterdam's iOS conference: a workshop day plus talks.",
+    "websiteURL": "https://do-ios.com",
+    "logoURL": "https://do-ios.com/images/card.png?v=2026",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2025",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2025",
+    "startDate": "2025-01-15",
+    "endDate": "2025-01-17",
+    "locationName": "Singapore",
+    "mapQuery": "The Legacy @ one-north, 11 Slim Barracks Rise, Singapore",
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "lets-vision-2025",
+    "kind": "Conference",
+    "name": "LET'S VISION 2025",
+    "startDate": "2025-03-01",
+    "endDate": "2025-03-02",
+    "locationName": "Shanghai, China",
+    "mapQuery": "Flower Port, Pudong, Shanghai, China",
+    "summary": "Spatial computing and AI conference for Vision Pro, XR and Apple-platform developers and creators.",
+    "websiteURL": "https://letsvision.swiftgg.team",
+    "logoURL": "https://framerusercontent.com/images/djs5wcxx7xM76k9bupA6Tmfvc.png",
+    "tags": [
+      "visionos",
+      "ai",
+      "swift"
+    ]
+  },
+  {
+    "id": "arctic-conference-2025",
+    "kind": "Conference",
+    "name": "Arctic Conference 2025",
+    "startDate": "2025-03-11",
+    "endDate": "2025-03-13",
+    "locationName": "Oulu, Finland",
+    "mapQuery": "Theatre Rio, Oulu, Finland",
+    "summary": "The world's northernmost Apple developers' conference, covering all Apple platforms.",
+    "websiteURL": "https://arcticonference.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "macos",
+      "visionos"
+    ]
+  },
+  {
+    "id": "appdevcon-2025",
+    "kind": "Conference",
+    "name": "Appdevcon 2025",
+    "startDate": "2025-03-18",
+    "endDate": "2025-03-21",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Pathé Amsterdam Noord, Amsterdam, Netherlands",
+    "summary": "Multi-track conference for app developers covering iOS, Android, web and cross-platform, with training days.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "mobius-spring-2025",
+    "kind": "Conference",
+    "name": "Mobius 2025 Spring",
+    "startDate": "2025-04-09",
+    "endDate": "2025-04-10",
+    "locationName": "Moscow, Russia",
+    "mapQuery": "Moscow, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "tryswift-tokyo-2025",
+    "kind": "Conference",
+    "name": "try! Swift Tokyo 2025",
+    "startDate": "2025-04-09",
+    "endDate": "2025-04-11",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Tachikawa Stage Garden, Tokyo, Japan",
+    "summary": "International Swift conference in Tokyo: a workshop day followed by talks from developers around the world.",
+    "websiteURL": "https://tryswift.jp",
+    "logoURL": "https://tryswift.jp/images/ogp.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "ai"
+    ]
+  },
+  {
+    "id": "deep-dish-swift-2025",
+    "kind": "Conference",
+    "name": "Deep Dish Swift 2025",
+    "startDate": "2025-04-27",
+    "endDate": "2025-04-29",
+    "locationName": "Rosemont, Illinois, USA",
+    "mapQuery": "Loews Chicago O'Hare Hotel, Rosemont, Illinois, USA",
+    "summary": "Chicago-area Swift developer conference with technical talks, indie dev sessions and community events.",
+    "websiteURL": "https://deepdishswift.com",
+    "logoURL": "https://deepdishswift.com/assets/images/2026/deep-dish-logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "ioskonf-2025",
+    "kind": "Conference",
+    "name": "iOSKonf25",
+    "startDate": "2025-05-13",
+    "endDate": "2025-05-15",
+    "locationName": "Skopje, North Macedonia",
+    "mapQuery": "Skopje Marriott Hotel, Skopje, North Macedonia",
+    "summary": "iOS developer conference in Skopje organised by CocoaHeadsMK: a workshop day plus talks.",
+    "websiteURL": "https://ioskonf.mk",
+    "logoURL": "https://ioskonf.mk/assets/share-ticket.png",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "swiftcraft-2025",
+    "kind": "Conference",
+    "name": "Swift Craft 2025",
+    "startDate": "2025-05-19",
+    "endDate": "2025-05-21",
+    "locationName": "Folkestone, UK",
+    "mapQuery": "Leas Cliff Hall, Folkestone, UK",
+    "summary": "Workshops, tutorials and a two-day Swift conference at Leas Cliff Hall on the Kent coast.",
+    "websiteURL": "https://swiftcraft.uk",
+    "logoURL": "https://swiftcraft.uk/static/img/logos/swiftcraft-logo-sq.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "communitykit-2025",
+    "kind": "Conference",
+    "name": "CommunityKit 2025",
+    "startDate": "2025-06-09",
+    "endDate": "2025-06-11",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Hyatt House Cupertino, 10380 Perimeter Rd, Cupertino, California, USA",
+    "summary": "Free community alt-conference alongside WWDC: meetups, podcasts, workshops and watch parties.",
+    "websiteURL": "https://communitykit.social",
+    "logoURL": "https://raw.githubusercontent.com/community-kit/CommunityKitSite/refs/heads/main/img/og-image.png",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-2025",
+    "kind": "Conference",
+    "name": "WWDC 2025",
+    "startDate": "2025-06-09",
+    "endDate": "2025-06-13",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Apple Park, Cupertino, California, USA",
+    "summary": "Apple's annual Worldwide Developers Conference: keynote, platform sessions and labs across all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2025",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2025",
+    "startDate": "2025-07-14",
+    "endDate": "2025-07-18",
+    "locationName": "State College, PA, USA",
+    "mapQuery": "The Penn Stater Hotel and Conference Center, State College, PA, USA",
+    "summary": "Penn State community conference for Apple platform administrators, covering Mac and iOS device management.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "iplayground-2025",
+    "kind": "Conference",
+    "name": "iPlayground 2025",
+    "startDate": "2025-08-30",
+    "endDate": "2025-08-31",
+    "locationName": "Taipei, Taiwan",
+    "mapQuery": "NCCU Public Enterprise Center, Taipei, Taiwan",
+    "summary": "Taiwan's Apple-platform developer conference covering Swift and iOS/macOS development.",
+    "websiteURL": "https://iplayground.io/2026/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "ai",
+      "design"
+    ]
+  },
+  {
+    "id": "swift-island-2025",
+    "kind": "Conference",
+    "name": "Swift Island 2025",
+    "startDate": "2025-09-02",
+    "endDate": "2025-09-04",
+    "locationName": "Texel, Netherlands",
+    "mapQuery": "Prins Hendrik Hotel and Bungalows, Texel, Netherlands",
+    "summary": "Island-based Swift conference on Texel built around small, hands-on workshops with expert mentors.",
+    "websiteURL": "https://swiftisland.nl",
+    "logoURL": "https://framerusercontent.com/images/qVsXCRdVU8lIeMVkkmGqTdSOwZU.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2025",
+    "kind": "Conference",
+    "name": "NSSpain 2025",
+    "startDate": "2025-09-17",
+    "endDate": "2025-09-19",
+    "locationName": "Logroño, Spain",
+    "mapQuery": "Logroño, Spain",
+    "summary": "iOS and macOS conference in La Rioja wine country: Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "swift-bharat-2025",
+    "kind": "Conference",
+    "name": "Swift Bharat 2025",
+    "startDate": "2025-09-26",
+    "endDate": "2025-09-27",
+    "locationName": "Bengaluru, India",
+    "mapQuery": "Bangalore International Centre, Domlur, Bengaluru, India",
+    "summary": "Apple developer conference in India: two days of Swift, SwiftUI and Apple-platform talks.",
+    "websiteURL": "https://www.swiftbharat.org",
+    "logoURL": "https://www.swiftbharat.org/og-image.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "macsysadmin-2025",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2025",
+    "startDate": "2025-09-30",
+    "endDate": "2025-10-03",
+    "locationName": "Gothenburg, Sweden",
+    "mapQuery": "Gothenburg, Sweden",
+    "summary": "Long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "swift-connection-2025",
+    "kind": "Conference",
+    "name": "Swift Connection 2025",
+    "startDate": "2025-10-06",
+    "endDate": "2025-10-07",
+    "locationName": "Paris, France",
+    "mapQuery": "Théâtre de Paris, Paris, France",
+    "summary": "Paris conference for the Swift and Apple platforms community, focused on practical talks and conversations.",
+    "websiteURL": "https://swiftconnection.io",
+    "logoURL": "https://swiftconnection.io/static/c7d63e77c83a2e3734e24fda2934cdb3/badge.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "swiftleeds-2025",
+    "kind": "Conference",
+    "name": "SwiftLeeds 2025",
+    "startDate": "2025-10-07",
+    "endDate": "2025-10-08",
+    "locationName": "Leeds, UK",
+    "mapQuery": "The Playhouse, Leeds, UK",
+    "summary": "Community-run, non-profit Swift conference in Leeds.",
+    "websiteURL": "https://swiftleeds.co.uk",
+    "logoURL": "https://swiftleeds.co.uk/img/logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "do-ios-2025",
+    "kind": "Conference",
+    "name": "Do iOS 2025",
+    "startDate": "2025-11-11",
+    "endDate": "2025-11-13",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "NEMO Science Museum, Amsterdam, Netherlands",
+    "summary": "Amsterdam's iOS conference: a workshop day plus talks.",
+    "websiteURL": "https://do-ios.com",
+    "logoURL": "https://do-ios.com/images/card.png?v=2026",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "mobius-autumn-2025",
+    "kind": "Conference",
+    "name": "Mobius 2025 Autumn",
+    "startDate": "2025-11-18",
+    "endDate": "2025-11-19",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Mobile development conference by JUG Ru Group with a dedicated iOS and Swift track.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2026",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2026",
+    "startDate": "2026-01-21",
+    "endDate": "2026-01-23",
+    "locationName": "Singapore",
+    "mapQuery": "NUS University Cultural Centre, 50 Kent Ridge Cres, Singapore",
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "lets-vision-2026",
+    "kind": "Conference",
+    "name": "LET'S VISION 2026",
+    "startDate": "2026-03-28",
+    "endDate": "2026-03-29",
+    "locationName": "Shanghai, China",
+    "mapQuery": "Caohejing Conference Center, Shanghai, China",
+    "summary": "Shanghai-based spatial computing and AI conference for Vision Pro, XR and Apple-platform developers and creators.",
+    "websiteURL": "https://letsvision.swiftgg.team",
+    "logoURL": "https://framerusercontent.com/images/djs5wcxx7xM76k9bupA6Tmfvc.png",
+    "tags": [
+      "visionos",
+      "ai",
+      "swift"
+    ]
+  },
+  {
+    "id": "deep-dish-swift-2026",
+    "kind": "Conference",
+    "name": "Deep Dish Swift 2026",
+    "startDate": "2026-04-12",
+    "endDate": "2026-04-14",
+    "locationName": "Rosemont, Illinois, USA",
+    "mapQuery": "Loews Chicago O'Hare Hotel, Rosemont, Illinois",
+    "summary": "Chicago-area Swift developer conference featuring technical talks, indie dev sessions, and a live podcast recording across three days.",
+    "websiteURL": "https://deepdishswift.com",
+    "logoURL": "https://deepdishswift.com/assets/images/2026/deep-dish-logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "tryswift-tokyo-2026",
+    "kind": "Conference",
+    "name": "try! Swift Tokyo",
+    "startDate": "2026-04-12",
+    "endDate": "2026-04-14",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Tachikawa, Tokyo, Japan",
+    "summary": "Three-day Swift conference in Tokyo covering SwiftUI, concurrency, embedded Swift, server-side Swift and AI integration.",
+    "websiteURL": "https://tryswift.jp",
+    "logoURL": "https://tryswift.jp/images/ogp.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "ai"
+    ]
+  },
+  {
+    "id": "ioskonf-2026",
+    "kind": "Conference",
+    "name": "iOSKonf26",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-06",
+    "locationName": "Skopje, North Macedonia",
+    "mapQuery": "Philharmonic of the Republic of Macedonia, Skopje, North Macedonia",
+    "summary": "Premium iOS developer conference held at the Macedonian Philharmonic, drawing attendees from 18+ countries.",
+    "websiteURL": "https://ioskonf.mk",
+    "logoURL": "https://ioskonf.mk/assets/share-ticket.png",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "swiftcraft-2026",
+    "kind": "Conference",
+    "name": "Swift Craft 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-20",
+    "locationName": "Folkestone, United Kingdom",
+    "mapQuery": "Leas Cliff Hall, Folkestone, Kent, United Kingdom",
+    "summary": "Workshops-and-tutorials day plus two-day Swift conference at Leas Cliff Hall on the Kent coast.",
+    "websiteURL": "https://swiftcraft.uk",
+    "logoURL": "https://swiftcraft.uk/static/img/logos/swiftcraft-logo-sq.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "apple-park-happy-hour-2026",
+    "kind": "Event",
+    "name": "Apple Park Happy Hour",
+    "startDate": "2026-06-06",
+    "endDate": "2026-06-06",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Pre-WWDC evening gathering near Apple Park for developers arriving for the week.",
+    "websiteURL": "https://www.eventbrite.com/e/apple-park-happy-hour-tickets-1986822959957",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "pre-wwdc-gathering-san-pedro-2026",
+    "kind": "Event",
+    "name": "Pre-WWDC26 Gathering at San Pedro Square",
+    "startDate": "2026-06-06",
+    "endDate": "2026-06-06",
+    "locationName": "San Jose, California, USA",
+    "mapQuery": "San Pedro Square Patio, San Jose, California",
+    "summary": "Pre-WWDC patio meetup in downtown San Jose the day before community events kick off in Cupertino.",
+    "websiteURL": "https://luma.com/trtbdihd",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-run-2026",
+    "kind": "Event",
+    "name": "WWDC Run",
+    "startDate": "2026-06-06",
+    "endDate": "2026-06-06",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Saturday morning community run kicking off WWDC week for developers gathering in Cupertino.",
+    "websiteURL": "https://luma.com/wwdc26-run",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "tryswift-nomikai-wwdc-2026",
+    "kind": "Event",
+    "name": "try! Swift WWDC Nomikai",
+    "startDate": "2026-06-06",
+    "endDate": "2026-06-06",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Japanese-style developer social hosted by try! Swift on WWDC eve weekend.",
+    "websiteURL": "https://luma.com/oha511rl",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "swift"
+    ]
+  },
+  {
+    "id": "communitykit-2026",
+    "kind": "Conference",
+    "name": "CommunityKit",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-12",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California, USA",
+    "summary": "Six days of community meetups, podcasts, workshops, an indie fair and WWDC watch parties held alongside WWDC.",
+    "websiteURL": "https://communitykit.social",
+    "logoURL": "https://raw.githubusercontent.com/community-kit/CommunityKitSite/refs/heads/main/img/og-image.png",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdcscholars-meetup-2026",
+    "kind": "Event",
+    "name": "#WWDCScholars Meetup at WWDC26",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-07",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Annual gathering of past and present Apple Swift Student Challenge / Scholarship recipients.",
+    "websiteURL": "https://www.tickettailor.com/events/wwdcscholars/2143164",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "core-coffee-wwdc-sunday-2026",
+    "kind": "Event",
+    "name": "Core Coffee — WWDC Sunday",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-07",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Sunday-morning coffee meetup for Apple-platform developers on the eve of the WWDC keynote.",
+    "websiteURL": "https://luma.com/gs91csm9",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "swift"
+    ]
+  },
+  {
+    "id": "cupertino-wwdc-bulusmasi-2026",
+    "kind": "Event",
+    "name": "Cupertino WWDC26 Buluşması",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-07",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Turkish-speaking developer meetup in Cupertino on the eve of WWDC.",
+    "websiteURL": "https://luma.com/67ejicon",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "revenuecat-pre-wwdc-bashcade-2026",
+    "kind": "Event",
+    "name": "RevenueCat Pre-WWDC Bashcade",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-07",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Pre-WWDC arcade and developer social hosted by RevenueCat on keynote eve.",
+    "websiteURL": "https://luma.com/jhm03vgs",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "ios"
+    ]
+  },
+  {
+    "id": "ctrl-alt-run-wwdc-2026",
+    "kind": "Event",
+    "name": "Run & Walk Meetup with Ctrl+Alt+Run",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-07",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Sunday morning run and walk meetup for WWDC attendees and locals.",
+    "websiteURL": "https://luma.com/61dpw1up",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "step-into-vision-coffee-2026",
+    "kind": "Event",
+    "name": "Step Into Vision — Coffee Meetup at Philz",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-07",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Coffee meetup for Vision Pro and spatial-computing developers ahead of WWDC week.",
+    "websiteURL": "https://luma.com/3jsjkshu",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "visionos",
+      "community"
+    ]
+  },
+  {
+    "id": "ai-night-wwdc-2026",
+    "kind": "Event",
+    "name": "The AI Night at WWDC26",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-07",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Evening meetup for developers working at the intersection of Apple platforms and AI.",
+    "websiteURL": "https://luma.com/ai-night-wwdc-26",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "ai",
+      "community"
+    ]
+  },
+  {
+    "id": "communitykit-inclusive-by-design-2026",
+    "kind": "Event",
+    "name": "Workshop: Inclusive by Design",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-07",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Inclusive-design workshop for Apple-platform developers at CommunityKit.",
+    "websiteURL": "https://luma.com/e8rw6fri",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "communitykit-write-faster-swift-2026",
+    "kind": "Event",
+    "name": "Workshop: Write Faster, Smarter Swift",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-07",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Free Swift performance workshop hosted at CommunityKit.",
+    "websiteURL": "https://luma.com/nvgsjp74",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-2026",
+    "kind": "Conference",
+    "name": "WWDC 2026",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-12",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Apple Park, Cupertino, California",
+    "summary": "Apple's annual Worldwide Developers Conference. Keynote, Platforms State of the Union, sessions and labs covering all Apple platforms.",
+    "websiteURL": "https://developer.apple.com/wwdc/",
+    "logoURL": "https://developer.apple.com/apple-touch-icon.png",
+    "tags": [
+      "apple",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "french-wwdinner-2026",
+    "kind": "Event",
+    "name": "French-Speaking Community Gathering (WWDinner)",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Dinner meetup for the French-speaking Apple developer community at WWDC.",
+    "websiteURL": "https://luma.com/wwdc26-french-gathering",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "students-swift-stars-2026",
+    "kind": "Event",
+    "name": "Students, Swift, Stars",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Student-focused Swift community evening during WWDC week.",
+    "websiteURL": "https://luma.com/28tkgxwv",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-watch-amstelveen-2026",
+    "kind": "Watch Party",
+    "name": "CocoaHeadsNL Keynote Meetup @ ABN AMRO",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Amstelveen, Netherlands",
+    "mapQuery": "Amstelveen, Netherlands",
+    "summary": "CocoaHeadsNL keynote watch at ABN AMRO.",
+    "websiteURL": "https://www.meetup.com/nl-NL/cocoaheadsnl/events/314073078/",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-conscious-engines-blr-2026",
+    "kind": "Watch Party",
+    "name": "Conscious Engines WWDC26 Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Bengaluru, India",
+    "mapQuery": "Bengaluru, India",
+    "summary": "Conscious Engines keynote watch party in Bengaluru.",
+    "websiteURL": "https://luma.com/1iiwmnkx",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-tokyo-2026",
+    "kind": "Watch Party",
+    "name": "Extended Tokyo — WWDC 2026",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Tokyo, Japan",
+    "summary": "LY Corp-hosted extended keynote watch in Tokyo.",
+    "websiteURL": "https://lycorptech-jp.connpass.com/event/392383/",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-helsinki-2026",
+    "kind": "Watch Party",
+    "name": "Helsinki WWDC Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Helsinki, Finland",
+    "mapQuery": "Helsinki, Finland",
+    "summary": "HelsinkiOS keynote watch party.",
+    "websiteURL": "https://www.meetup.com/helsinkios-mac-and-ios-developers/events/314896846/",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "communitykit-keynote-watch-2026",
+    "kind": "Watch Party",
+    "name": "Keynote Watch Party at CommunityKit",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Watch the WWDC keynote together with iOSDevHappyHour and the CommunityKit crowd.",
+    "websiteURL": "https://communitykit.social",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-istanbul-2026",
+    "kind": "Watch Party",
+    "name": "NSIstanbul WWDC2026 Seyir Partisi",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Istanbul, Turkey",
+    "mapQuery": "Istanbul, Turkey",
+    "summary": "NSIstanbul keynote watch party.",
+    "websiteURL": "https://kommunity.com/nsistanbul/events/wwdc2026-seyir-partisi-nsistanbul-0b284821",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-london-2026",
+    "kind": "Watch Party",
+    "name": "NSLondon WWDC26 Keynote Viewing Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "London, UK",
+    "mapQuery": "London, United Kingdom",
+    "summary": "NSLondon hosts a community keynote viewing for the WWDC 2026 opener.",
+    "websiteURL": "https://www.meetup.com/nslondon/events/314110467",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-manchester-2026",
+    "kind": "Watch Party",
+    "name": "NSManchester WWDC 2026 Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Manchester, United Kingdom",
+    "mapQuery": "Manchester, United Kingdom",
+    "summary": "NSManchester keynote watch party.",
+    "websiteURL": "https://www.meetup.com/nsmanchester/events/rpwfrsyjcjbcb",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "communitykit-sotu-watch-2026",
+    "kind": "Watch Party",
+    "name": "SOTU Watch Party at CommunityKit",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Watch Apple's Platforms State of the Union with the CommunityKit crowd.",
+    "websiteURL": "https://communitykit.social",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-ahmedabad-2026",
+    "kind": "Watch Party",
+    "name": "Swift Ahmedabad WWDC26 Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Ahmedabad, India",
+    "mapQuery": "Ahmedabad, India",
+    "summary": "Swift Ahmedabad keynote watch party.",
+    "websiteURL": "https://luma.com/b08evqjf",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-barcelona-2026",
+    "kind": "Watch Party",
+    "name": "Swift Barcelona WWDC 2026 Keynote Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Barcelona, Spain",
+    "mapQuery": "Barcelona, Spain",
+    "summary": "Swift Barcelona keynote watch party for local developers gathering in person.",
+    "websiteURL": "https://www.meetup.com/swiftbarcelona/events/314816865/",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "swift"
+    ]
+  },
+  {
+    "id": "wwdc-watch-swift-bengaluru-2026",
+    "kind": "Watch Party",
+    "name": "Swift Bengaluru WWDC26 Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Bengaluru, India",
+    "mapQuery": "Bengaluru, India",
+    "summary": "Swift Bengaluru keynote watch party.",
+    "websiteURL": "https://luma.com/kur60w7l",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-chennai-2026",
+    "kind": "Watch Party",
+    "name": "Swift Chennai WWDC26 Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Chennai, India",
+    "mapQuery": "Chennai, India",
+    "summary": "Swift Chennai keynote watch party.",
+    "websiteURL": "https://luma.com/q86j02km",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-delhi-2026",
+    "kind": "Watch Party",
+    "name": "Swift Delhi WWDC26 Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Delhi, India",
+    "mapQuery": "Delhi, India",
+    "summary": "Swift Delhi keynote watch party.",
+    "websiteURL": "https://luma.com/flgblcpd",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-graz-2026",
+    "kind": "Watch Party",
+    "name": "Swift Graz WWDC 26 Keynote Watch",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Graz, Austria",
+    "mapQuery": "Graz, Austria",
+    "summary": "Swift Graz keynote watch party.",
+    "websiteURL": "https://www.meetup.com/swift-graz/events/314561120/",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-mumbai-2026",
+    "kind": "Watch Party",
+    "name": "Swift Mumbai WWDC26 Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Mumbai, India",
+    "mapQuery": "Mumbai, India",
+    "summary": "Swift Mumbai keynote watch party.",
+    "websiteURL": "https://luma.com/ct1h2pul",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-davao-2026",
+    "kind": "Watch Party",
+    "name": "SwiftPH Davao WWDC26 Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Davao, Philippines",
+    "mapQuery": "Davao, Philippines",
+    "summary": "SwiftPH keynote watch party in Davao.",
+    "websiteURL": "https://luma.com/gf2kx2qo",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-manila-2026",
+    "kind": "Watch Party",
+    "name": "SwiftPH Manila WWDC26 Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Manila, Philippines",
+    "mapQuery": "Manila, Philippines",
+    "summary": "SwiftPH keynote watch party in Manila.",
+    "websiteURL": "https://luma.com/rywfa41u",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-surat-2026",
+    "kind": "Watch Party",
+    "name": "SwiftSurat WWDC26 Watch Party",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Surat, India",
+    "mapQuery": "Surat, India",
+    "summary": "SwiftSurat keynote watch party.",
+    "websiteURL": "https://luma.com/kgspe1yk",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-amsterdam-2026",
+    "kind": "Watch Party",
+    "name": "WWDC 2026 Watch Party @ Booking.com HQ",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Amsterdam, Netherlands",
+    "summary": "Booking.com-hosted keynote watch party in Amsterdam.",
+    "websiteURL": "https://luma.com/143q1t0y",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-cologne-2026",
+    "kind": "Watch Party",
+    "name": "WWDC 2026 Watch Party Cologne",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Cologne, Germany",
+    "mapQuery": "Cologne, Germany",
+    "summary": "CocoaHeads Cologne keynote watch party — stream the WWDC opener with local devs.",
+    "websiteURL": "https://www.meetup.com/de-DE/cocoaheads-cologne/events/314303588/",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-copenhagen-2026",
+    "kind": "Watch Party",
+    "name": "WWDC 2026 Watch Party Copenhagen",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Copenhagen, Denmark",
+    "mapQuery": "Copenhagen, Denmark",
+    "summary": "Framna-hosted keynote livestream in Copenhagen.",
+    "websiteURL": "https://framna.com/events/wwdc-2026-livestream-copenhagen",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-utah-2026",
+    "kind": "Watch Party",
+    "name": "WWDC 2026 Watch Party Utah",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Lehi, Utah, USA",
+    "mapQuery": "Lehi, Utah",
+    "summary": "Utah iOS & Mac developer community keynote watch party.",
+    "websiteURL": "https://www.meetup.com/utah-ios-and-mac-developers/events/314877056/",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-sofia-2026",
+    "kind": "Watch Party",
+    "name": "WWDC26 Keynote Watch Party Sofia",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "locationName": "Sofia, Bulgaria",
+    "mapQuery": "Sofia, Bulgaria",
+    "summary": "Sofia community keynote watch party.",
+    "websiteURL": "https://luma.com/vqlsr5dv",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-beijing-2026",
+    "kind": "Watch Party",
+    "name": "WWDC26.Playground Beijing",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Beijing, China",
+    "mapQuery": "Beijing, China",
+    "summary": "SwiftGG keynote watch party in Beijing.",
+    "websiteURL": "https://wwdc.swiftgg.team",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-guangzhou-2026",
+    "kind": "Watch Party",
+    "name": "WWDC26.Playground Guangzhou",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Guangzhou, China",
+    "mapQuery": "Guangzhou, China",
+    "summary": "SwiftGG keynote watch party in Guangzhou.",
+    "websiteURL": "https://sspai.com/item/468",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-hangzhou-2026",
+    "kind": "Watch Party",
+    "name": "WWDC26.Playground Hangzhou",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Hangzhou, China",
+    "mapQuery": "Hangzhou, China",
+    "summary": "SwiftGG keynote watch party in Hangzhou.",
+    "websiteURL": "https://startlink.feishu.cn/share/base/form/shrcnCTw8NckrwO8vE5wg4UGgre",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-qingdao-2026",
+    "kind": "Watch Party",
+    "name": "WWDC26.Playground Qingdao",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Qingdao, China",
+    "mapQuery": "Qingdao, China",
+    "summary": "SwiftGG keynote watch party in Qingdao.",
+    "websiteURL": "https://wwdc.swiftgg.team/qingdao",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-shanghai-2026",
+    "kind": "Watch Party",
+    "name": "WWDC26.Playground Shanghai",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Shanghai, China",
+    "mapQuery": "Shanghai, China",
+    "summary": "SwiftGG keynote watch party in Shanghai.",
+    "websiteURL": "https://event.swiftgg.team/register/activity/wwdc26",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc-watch-shenzhen-2026",
+    "kind": "Watch Party",
+    "name": "WWDC26.Playground Shenzhen",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "locationName": "Shenzhen, China",
+    "mapQuery": "Shenzhen, China",
+    "summary": "SwiftGG keynote watch party in Shenzhen.",
+    "websiteURL": "https://sspai.com/item/467",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "app-money-lunch-club-2026",
+    "kind": "Event",
+    "name": "App Money Lunch Club",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "RevenueCat-hosted lunch for indie devs and app monetization founders at CommunityKit.",
+    "websiteURL": "https://luma.com/vv8rdeci",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "indie"
+    ]
+  },
+  {
+    "id": "apple-intelligence-automators-2026",
+    "kind": "Event",
+    "name": "Apple Intelligence Automators Meetup",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Meetup for developers automating with Apple Intelligence and Shortcuts.",
+    "websiteURL": "https://luma.com/dnpnqonr",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "ai",
+      "community"
+    ]
+  },
+  {
+    "id": "beer-with-swift-wwdc-2026",
+    "kind": "Event",
+    "name": "Beer with Swift @ WWDC26",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Evening Swift community meetup hosted by Create with Swift.",
+    "websiteURL": "https://luma.com/y95acvdw",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "indie-dev-meetup-wwdc-2026",
+    "kind": "Event",
+    "name": "Indie Developer Meetup",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Indie developer meetup at CommunityKit during WWDC week.",
+    "websiteURL": "https://luma.com/9rgkw05a",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "indie"
+    ]
+  },
+  {
+    "id": "revenuecat-mansionparty-2026",
+    "kind": "Event",
+    "name": "RevenueCat Mansionparty: WWDC Edition",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "RevenueCat's signature WWDC afternoon-to-evening party.",
+    "websiteURL": "https://luma.com/mjoh0kzy",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "step-into-vision-meetup-2026",
+    "kind": "Event",
+    "name": "Step Into Vision — Apple Vision Pro Meetup",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Vision Pro developer meetup at CommunityKit during WWDC week.",
+    "websiteURL": "https://luma.com/kdqxj5nq",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "visionos",
+      "community"
+    ]
+  },
+  {
+    "id": "the-interface-wwdc-2026",
+    "kind": "Event",
+    "name": "The Interface WWDC26",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Designer-and-developer meetup hosted by Tamia James during WWDC week.",
+    "websiteURL": "https://luma.com/j7hmf0gm",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "design",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdcwomen-breakfast-2026",
+    "kind": "Event",
+    "name": "WWDCWomen Get Together Breakfast",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Morning gathering for women and non-binary devs at CommunityKit.",
+    "websiteURL": "https://luma.com/xz8lx6c1",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "whats-new-in-ios27-2026",
+    "kind": "Event",
+    "name": "What's New in iOS 27",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Community session unpacking the iOS 27 announcements at CommunityKit.",
+    "websiteURL": "https://luma.com/bwg9eoer",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "iosdevhappyhour-wwdc-irl-2026",
+    "kind": "Event",
+    "name": "iOSDevHappyHour @ WWDC26 IRL",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "In-person edition of the long-running iOSDevHappyHour during WWDC week.",
+    "websiteURL": "https://idhhwwdc26irl.eventbrite.com",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "ios"
+    ]
+  },
+  {
+    "id": "wwdc-watch-melbourne-2026",
+    "kind": "Watch Party",
+    "name": "Melbourne Indie Devs WWDC26 Watch Party",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "locationName": "Mitcham, Victoria, Australia",
+    "mapQuery": "Mitcham, Victoria, Australia",
+    "summary": "Indie-dev keynote watch party in greater Melbourne.",
+    "websiteURL": "https://luma.com/bx77prmp",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "apple-dev-community-meetup-2026",
+    "kind": "Event",
+    "name": "Apple Developer Community Meetup",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-10",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Apple Developer Center, Cupertino, California",
+    "summary": "Evening community gathering at the Apple Developer Center in Cupertino during WWDC.",
+    "websiteURL": "https://developer.apple.com/events/view/8D4G7DD8LR/dashboard",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "apple",
+      "community"
+    ]
+  },
+  {
+    "id": "core-coffee-breakfast-trivia-2026",
+    "kind": "Event",
+    "name": "Community Breakfast & Trivia with Core Coffee",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-10",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Breakfast and trivia with the Core Coffee crew at CommunityKit.",
+    "websiteURL": "https://luma.com/afu4pnbp",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "container-install-meetup-2026",
+    "kind": "Event",
+    "name": "Container Install Meetup",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-10",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Hands-on meetup focused on Apple's new Container support at CommunityKit.",
+    "websiteURL": "https://luma.com/rh1k2tpy",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "communitykit-indie-fair-2026",
+    "kind": "Event",
+    "name": "Indie Fair at CommunityKit",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-10",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Indie developer expo and demo afternoon at CommunityKit.",
+    "websiteURL": "https://communitykit.social",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "indie"
+    ]
+  },
+  {
+    "id": "launched-live-2026",
+    "kind": "Event",
+    "name": "Launched LIVE",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-10",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Live recording of the Launched podcast at CommunityKit.",
+    "websiteURL": "https://luma.com/dxme2hiw",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "indie"
+    ]
+  },
+  {
+    "id": "make-it-visible-a11y-2026",
+    "kind": "Event",
+    "name": "Make It Visible: Accessibility Meetup",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-10",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Accessibility-focused community meetup at CommunityKit.",
+    "websiteURL": "https://luma.com/ro48u8fw",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "accessibility",
+      "community"
+    ]
+  },
+  {
+    "id": "meet-tryswift-2026",
+    "kind": "Event",
+    "name": "Meet try!Swift",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-10",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Drop-in session to meet the try!Swift organizers and community at CommunityKit.",
+    "websiteURL": "https://luma.com/1vi0u421",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-contributor-social-2026",
+    "kind": "Event",
+    "name": "Swift Contributor Social",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-10",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Bowlmor Cupertino, California",
+    "summary": "Bowling social for Swift open-source contributors at Bowlmor Cupertino.",
+    "websiteURL": "https://luma.com/f6ss3sa8",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "tim-cookout-2026",
+    "kind": "Event",
+    "name": "Tim Cookout",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-10",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Superwall's annual WWDC cookout for the Apple developer community.",
+    "websiteURL": "https://luma.com/superwall-cookout",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community",
+      "indie"
+    ]
+  },
+  {
+    "id": "aios-meetup-2026",
+    "kind": "Event",
+    "name": "AiOS Meetup",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-11",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Meetup for developers shipping AI features on iOS, at CommunityKit.",
+    "websiteURL": "https://luma.com/ju8j7vtp",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "ai",
+      "ios"
+    ]
+  },
+  {
+    "id": "bitrig-bash-2026",
+    "kind": "Event",
+    "name": "Bitrig Bash",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-11",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "WWDC-week party hosted by the Bitrig community.",
+    "websiteURL": "https://luma.com/hbytg7n8",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "code-crawl-2026",
+    "kind": "Event",
+    "name": "Code Crawl",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-11",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Afternoon code crawl through Cupertino, organised at CommunityKit.",
+    "websiteURL": "https://luma.com/n8qyff6o",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "core-coffee-thursday-2026",
+    "kind": "Event",
+    "name": "Core Coffee — WWDC Thursday",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-11",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Late-week Core Coffee meetup during WWDC.",
+    "websiteURL": "https://luma.com/bchvtekz",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "james-dempsey-breakpoints-2026",
+    "kind": "Event",
+    "name": "James Dempsey and the Breakpoints — LIVE",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-11",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Live concert near WWDC by James Dempsey and the Breakpoints.",
+    "websiteURL": "https://www.eventbrite.com/e/james-dempsey-and-the-breakpoints-live-near-wwdc-concert-2026-tickets-1989917468716",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-small-talks-2026",
+    "kind": "Event",
+    "name": "Swift Small Talks",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-11",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Lightning-talk session for the Swift community at CommunityKit.",
+    "websiteURL": "https://luma.com/b6ck33g9",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "vapor-at-wwdc-2026",
+    "kind": "Event",
+    "name": "Vapor @ WWDC",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-11",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Server-side Swift meetup hosted by the Vapor team at CommunityKit.",
+    "websiteURL": "https://luma.com/49kh9w32",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "feedback-friday-2026",
+    "kind": "Event",
+    "name": "Feedback Friday",
+    "startDate": "2026-06-12",
+    "endDate": "2026-06-12",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Closing-day feedback and reflection session at CommunityKit.",
+    "websiteURL": "https://luma.com/9z7as4f6",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "make-something-ship-nothing-2026",
+    "kind": "Event",
+    "name": "Make Something, Ship Nothing",
+    "startDate": "2026-06-12",
+    "endDate": "2026-06-12",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "Closing-day make session — build for fun, don't ship — at CommunityKit.",
+    "websiteURL": "https://luma.com/rd474f8x",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-conf-indonesia-2026",
+    "kind": "Conference",
+    "name": "Swift Conf Indonesia",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-05",
+    "locationName": "Jakarta, Indonesia",
+    "mapQuery": "Apple Developer Institute for Professionals, Jl. M.H. Thamrin No. 10, Tanah Abang, Jakarta Pusat, Indonesia",
+    "summary": "Indonesia's first Swift conference — talks, workshops and discussion circles for developers of every level, with networking alongside Swift experts from Indonesia and abroad.",
+    "websiteURL": "https://events.zoom.us/ev/Ak7afLpOD12YzGD6W7z7zK-IrFm7lDceLyIglo8w-3cRnUybn-Gx~AvM1tOkv4U-EKGtEOoFGFJWrVcYfYZk70b_UgNe0RMu9zKMvMHJGD-T70Q",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "macadmins-conference-2026",
+    "kind": "Conference",
+    "name": "MacAdmins Conference 2026",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-10",
+    "locationName": "State College, USA",
+    "mapQuery": "Penn Stater Conference Center Hotel, State College, Pennsylvania, USA",
+    "summary": "The largest community conference for Apple platform administrators, covering Mac, iOS and Apple device management at scale.",
+    "websiteURL": "https://macadmins.psu.edu/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "server"
+    ]
+  },
+  {
+    "id": "boulderos-july-2026",
+    "kind": "Meetup",
+    "name": "boulderOS Meetup",
+    "startDate": "2026-07-15",
+    "endDate": "2026-07-15",
+    "locationName": "Boulder, Colorado, USA",
+    "mapQuery": "Barchetta Pizza, 1644 Walnut Street, Boulder, Colorado",
+    "summary": "Monthly evening meetup for Apple developers, designers and founders in Boulder, hosted in the back room at Barchetta Pizza.",
+    "websiteURL": "https://boulderos.com",
+    "logoURL": null,
+    "tags": [
+      "apple",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "ios-ai-summer-camp-2026",
+    "kind": "Event",
+    "name": "iOS AI Summer Camp",
+    "startDate": "2026-07-15",
+    "endDate": "2026-07-17",
+    "locationName": "Taipei, Taiwan",
+    "mapQuery": "National Taiwan University, Da'an District, Taipei, Taiwan",
+    "summary": "Three-day camp for young developers building iOS apps with AI tooling, closing with a hackathon.",
+    "websiteURL": "https://luma.com/db49qc4m",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "ai",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "embedded-swift-tokyo-1-2026",
+    "kind": "Meetup",
+    "name": "Embedded Swift Tokyo #1",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-16",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "FabCafe MTRL, Dogenzaka, Shibuya, Tokyo, Japan",
+    "summary": "First Tokyo meetup for Embedded Swift, with a workshop on running Swift on microcontrollers and edge devices.",
+    "websiteURL": "https://luma.com/isvrubx6",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "embedded",
+      "community"
+    ]
+  },
+  {
+    "id": "sydney-cocoaheads-july-2026",
+    "kind": "Meetup",
+    "name": "Sydney CocoaHeads Meetup",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-16",
+    "locationName": "Sydney, Australia",
+    "mapQuery": "Bilue, 4-6 Bligh Street, Sydney, NSW, Australia",
+    "summary": "Monthly iOS and Mac developer meetup hosted at Bilue, with talks on indie app building and adaptive layouts. Also live-streamed.",
+    "websiteURL": "https://www.meetup.com/sydneycocoaheads/events/312607406/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "macos",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "xcoders-seattle-social-july-2026",
+    "kind": "Meetup",
+    "name": "Seattle Xcoders Social",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-16",
+    "locationName": "Seattle, Washington, USA",
+    "mapQuery": "Bale Breaker Brewing, Ballard, Seattle, Washington",
+    "summary": "Seattle's long-running Cocoa developer group swaps its usual tech talk for an informal summer social. Free, all levels welcome.",
+    "websiteURL": "https://xcoders.org/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "macos",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc26-recap-japan-region-swift-2026",
+    "kind": "Event",
+    "name": "WWDC26 Recap — Japan-\\(region).swift",
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "locationName": "Multiple cities, Japan",
+    "mapQuery": "Tokyo, Japan",
+    "summary": "Regional Swift communities in Tokyo, Nagoya, Osaka, Kamiyama and Okinawa connect by stream for a WWDC26 recap and Apple evangelist Q&A.",
+    "websiteURL": "https://luma.com/x230s9i1",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-rockies-2026",
+    "kind": "Conference",
+    "name": "Swift Rockies",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-23",
+    "locationName": "Calgary, Alberta, Canada",
+    "mapQuery": "Calgary, Alberta, Canada",
+    "summary": "Retreat-style iOS conference in the Canadian Rockies with single-track talks, round-tables and hands-on sessions.",
+    "websiteURL": "https://swiftrockies.com",
+    "logoURL": "https://swiftrockies.com/assets/social-share-card.png",
+    "tags": [
+      "ios",
+      "swift",
+      "swiftui"
+    ]
+  },
+  {
+    "id": "try-swift-tokyo-wwdc-recap-2026",
+    "kind": "Event",
+    "name": "try! Swift Tokyo WWDC Recap 2026",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-22",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Minato City, Tokyo, Japan",
+    "summary": "Evening WWDC recap from try! Swift Tokyo: talks, a panel of WWDC attendees and Swift Student Challenge winners, with live translation.",
+    "websiteURL": "https://luma.com/tryswift-wwdc26",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "wwdc",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "iplayground-2026",
+    "kind": "Conference",
+    "name": "iPlayground 2026",
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "locationName": "Taipei, Taiwan",
+    "mapQuery": "NCCU CPBAE, No. 187 Jinhua St, Da'an District, Taipei, Taiwan",
+    "summary": "Taiwan's two-day Apple-platform developer conference spanning Swift, iOS/macOS development and real-world AI integration.",
+    "websiteURL": "https://iplayground.io/2026/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "ai",
+      "design"
+    ]
+  },
+  {
+    "id": "sapporo-swift-1-2026",
+    "kind": "Meetup",
+    "name": "Sapporo.swift #1",
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "locationName": "Sapporo, Japan",
+    "mapQuery": "Kita 13-jo Nishi 4, Kita-ku, Sapporo, Hokkaido, Japan",
+    "summary": "First Sapporo chapter gathering of the Japan-region.swift community, with talks and networking for Apple-platform developers.",
+    "websiteURL": "https://japan-region-swift.connpass.com/event/393404/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "tacow-july-meetup-2026",
+    "kind": "Meetup",
+    "name": "Tacow July Meetup",
+    "startDate": "2026-07-28",
+    "endDate": "2026-07-28",
+    "locationName": "Toronto, Canada",
+    "mapQuery": "120 Bremner Boulevard, Toronto, Ontario, Canada",
+    "summary": "Toronto Area CocoaHeads meet for talks and lightning talks on what Apple shipped at WWDC, followed by a social.",
+    "websiteURL": "https://luma.com/9olvx72d",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "wwdc",
+      "community"
+    ]
+  },
+  {
+    "id": "swiftlah-august-2026",
+    "kind": "Meetup",
+    "name": "SwiftLah! Community Meetup",
+    "startDate": "2026-08-05",
+    "endDate": "2026-08-05",
+    "locationName": "Petaling Jaya, Malaysia",
+    "mapQuery": "GX Bank Berhad, 1 First Avenue, Bandar Utama, Petaling Jaya, Malaysia",
+    "summary": "Malaysia's Swift community meetup at GX Bank, with talks on a native QR scanner, standing out on the App Store and App Intents.",
+    "websiteURL": "https://luma.com/1acmllvt",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "ai",
+      "community"
+    ]
+  },
+  {
+    "id": "cocoaheads-xp-fortaleza-2026",
+    "kind": "Meetup",
+    "name": "CocoaHeads XP",
+    "startDate": "2026-08-07",
+    "endDate": "2026-08-07",
+    "locationName": "Fortaleza, Brazil",
+    "mapQuery": "Unifor Hub, Avenida Washington Soares 1321, Fortaleza, Brazil",
+    "summary": "CocoaHeads Fortaleza gathering for Apple developers: talks, knowledge sharing and networking with the local iOS community.",
+    "websiteURL": "https://www.sympla.com.br/evento/cocoaheads-xp/3349386",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "design-meetup-x-apple-cupertino-2026",
+    "kind": "Event",
+    "name": "Design Meetup × Apple",
+    "startDate": "2026-08-07",
+    "endDate": "2026-08-07",
+    "locationName": "Cupertino, California, USA",
+    "mapQuery": "Cupertino, California",
+    "summary": "An evening for designers, founders and creative technologists with a fireside chat featuring Apple Human Interface designers, plus demos and networking.",
+    "websiteURL": "https://luma.com/ryw61pad",
+    "logoURL": null,
+    "tags": [
+      "design",
+      "ios",
+      "ai",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-bengaluru-x-mercari-2026",
+    "kind": "Meetup",
+    "name": "Swift Bengaluru × Mercari",
+    "startDate": "2026-08-08",
+    "endDate": "2026-08-08",
+    "locationName": "Bengaluru, India",
+    "mapQuery": "Embassy TechVillage, Outer Ring Road, Kadubeesanahalli, Bengaluru, India",
+    "summary": "In-person Swift Bengaluru meetup hosted at Mercari, with speaker sessions on mobile architecture, engineering practice and performance.",
+    "websiteURL": "https://luma.com/nu6dgbxm",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "slug-cocoaheads-sf-august-2026",
+    "kind": "Meetup",
+    "name": "Swift Language User Group × CocoaHeads",
+    "startDate": "2026-08-13",
+    "endDate": "2026-08-13",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Lyft HQ, 185 Berry Street, San Francisco, California",
+    "summary": "The Bay Area's monthly Swift meetup at Lyft HQ, with talks spanning iOS, macOS, visionOS and server-side Swift.",
+    "websiteURL": "https://www.meetup.com/swift-language/events/313452891/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "macos",
+      "community"
+    ]
+  },
+  {
+    "id": "cocoaheads-pittsburgh-august-2026",
+    "kind": "Meetup",
+    "name": "(retro)CocoaHeads Pittsburgh",
+    "startDate": "2026-08-13",
+    "endDate": "2026-08-13",
+    "locationName": "Pittsburgh, Pennsylvania, USA",
+    "mapQuery": "Eat'n Park, 100 Park Manor Drive, Pittsburgh, Pennsylvania",
+    "summary": "Informal second-Thursday dinner gathering of the Pittsburgh CocoaHeads chapter, covering iOS, Mac and retro computing.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-pittsburgh/events/rjkkwtyjclbrb/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "macos",
+      "community"
+    ]
+  },
+  {
+    "id": "crazy-thursday-shenzhen-august-2026",
+    "kind": "Meetup",
+    "name": "Crazy Thursday Meetup — AI & App Builder",
+    "startDate": "2026-08-13",
+    "endDate": "2026-08-13",
+    "locationName": "Shenzhen, China",
+    "mapQuery": "Shenzhen, Guangdong, China",
+    "summary": "Shenzhen's recurring evening meetup for Apple platform developers and AI app builders, with short talks and open networking.",
+    "websiteURL": "https://luma.com/uz1v1twk",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "ai",
+      "community"
+    ]
+  },
+  {
+    "id": "tamariver-swift-2-2026",
+    "kind": "Meetup",
+    "name": "TamaRiver.swift #2",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-15",
+    "locationName": "Tama, Japan",
+    "mapQuery": "1-10-1 Sekido, Tama, Tokyo, Japan",
+    "summary": "Second TamaRiver.swift gathering near the Tama River: an evening of Swift talks and networking for Apple-platform developers.",
+    "websiteURL": "https://japan-region-swift.connpass.com/event/394189/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "wwdc26-recap-bangladesh-2026",
+    "kind": "Event",
+    "name": "Community WWDC26 Recap Bangladesh",
+    "startDate": "2026-08-17",
+    "endDate": "2026-08-17",
+    "locationName": "Feni, Bangladesh",
+    "mapQuery": "Feni, Bangladesh",
+    "summary": "Community recap of WWDC26 for Bangladeshi students and developers, with expert sessions, Swift Student Challenge showcases and one-to-one consultations.",
+    "websiteURL": "https://luma.com/6oemyipr",
+    "logoURL": null,
+    "tags": [
+      "wwdc",
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "boulderos-august-2026",
+    "kind": "Meetup",
+    "name": "boulderOS Meetup",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-19",
+    "locationName": "Boulder, Colorado, USA",
+    "mapQuery": "Barchetta Pizza, 1644 Walnut Street, Boulder, Colorado",
+    "summary": "Monthly evening meetup for Apple developers, designers and founders in Boulder, hosted in the back room at Barchetta Pizza.",
+    "websiteURL": "https://boulderos.com",
+    "logoURL": null,
+    "tags": [
+      "apple",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "sydney-cocoaheads-august-2026",
+    "kind": "Meetup",
+    "name": "Sydney CocoaHeads Meetup",
+    "startDate": "2026-08-20",
+    "endDate": "2026-08-20",
+    "locationName": "Sydney, Australia",
+    "mapQuery": "Bilue, 4-6 Bligh Street, Sydney, NSW, Australia",
+    "summary": "Sydney's monthly iOS and Mac developer meetup at Bilue, streamed on YouTube for remote attendees.",
+    "websiteURL": "https://www.meetup.com/sydneycocoaheads/events/312607407/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "macos",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "cocoa-swift-kanto-august-2026",
+    "kind": "Meetup",
+    "name": "Cocoa/Swift 勉強会 2026/08/23",
+    "startDate": "2026-08-23",
+    "endDate": "2026-08-23",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Higashi-Ikebukuro, Toshima, Tokyo, Japan",
+    "summary": "Long-running Kanto-area Cocoa and Swift study group session for Apple-platform developers.",
+    "websiteURL": "https://cocoa-kanto.connpass.com/event/400884/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "mobile-ai-build-weekend-melbourne-2026",
+    "kind": "Event",
+    "name": "Mobile AI Build Weekend",
+    "startDate": "2026-08-29",
+    "endDate": "2026-08-30",
+    "locationName": "Melbourne, Australia",
+    "mapQuery": "Melbourne CBD, Victoria, Australia",
+    "summary": "Two-day hackathon for developers, designers and founders building AI-powered Apple platform apps, with mentors, workshops and prizes.",
+    "websiteURL": "https://theappblueprint.io/build-weekend",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "ai",
+      "visionos",
+      "community"
+    ]
+  },
+  {
+    "id": "cocoaheads-austria-september-2026",
+    "kind": "Meetup",
+    "name": "CocoaHeads Austria Meetup",
+    "startDate": "2026-09-03",
+    "endDate": "2026-09-03",
+    "locationName": "Vienna, Austria",
+    "mapQuery": "Landstrasser Hauptstrasse 97-101, Vienna, Austria",
+    "summary": "Vienna CocoaHeads evening hosted at willhaben: networking followed by an English-language talk for Apple-platform developers.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-at/events/314876053/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "cocoaheads-hamburg-september-2026",
+    "kind": "Meetup",
+    "name": "CocoaHeads Hamburg",
+    "startDate": "2026-09-03",
+    "endDate": "2026-09-03",
+    "locationName": "Hamburg, Germany",
+    "mapQuery": "Freenow, Neumühlen 19, 22763 Hamburg, Germany",
+    "summary": "Monthly CocoaHeads Hamburg evening at Freenow, with talks on agentic AI for iOS developers and iMessage apps, plus community lightning talks.",
+    "websiteURL": "https://cocoaheads-hamburg.de/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "ai",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-island-2026",
+    "kind": "Conference",
+    "name": "Swift Island",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-11",
+    "locationName": "Texel, Netherlands",
+    "mapQuery": "Texel, Netherlands",
+    "summary": "Exclusive island-based Swift conference on Texel built around small, hands-on WWDC workshops with expert mentors.",
+    "websiteURL": "https://swiftisland.nl",
+    "logoURL": "https://framerusercontent.com/images/qVsXCRdVU8lIeMVkkmGqTdSOwZU.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "iosdevuk-2026",
+    "kind": "Conference",
+    "name": "iOSDevUK",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-10",
+    "locationName": "Aberystwyth, UK",
+    "mapQuery": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "summary": "Long-running, community-driven UK iOS conference combining workshops, talks and shared accommodation in coastal Wales.",
+    "websiteURL": "https://www.iosdevuk.com",
+    "logoURL": "https://static1.squarespace.com/static/59ccb76390badefdc24cee2e/t/6954faf23f4b3e6c55defb03/1767176946378/SiteBanner-GoldBackground-DeviceImage.png?format=1500w",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "codable-shipaton-lagos-2026",
+    "kind": "Event",
+    "name": "Codable — Indie App Launchpad: Shipaton Lagos",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "locationName": "Lagos, Nigeria",
+    "mapQuery": "Ikeja, Lagos, Nigeria",
+    "summary": "Lagos build day for aspiring indie developers entering RevenueCat's Shipaton, covering first users, monetisation and app demos from local builders.",
+    "websiteURL": "https://luma.com/49s65qhw",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "indie",
+      "community"
+    ]
+  },
+  {
+    "id": "nsspain-2026",
+    "kind": "Conference",
+    "name": "NSSpain XIV",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-18",
+    "locationName": "Logroño, Spain",
+    "mapQuery": "Riojaforum, Logroño, La Rioja, Spain",
+    "summary": "Dates TBA. iOS and macOS conference in La Rioja wine country: two days of Swift talks plus a workshop day.",
+    "websiteURL": "https://2026.nsspain.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "macos"
+    ]
+  },
+  {
+    "id": "boulderos-september-2026",
+    "kind": "Meetup",
+    "name": "boulderOS Meetup",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-16",
+    "locationName": "Boulder, Colorado, USA",
+    "mapQuery": "Barchetta Pizza, 1644 Walnut Street, Boulder, Colorado",
+    "summary": "Monthly evening meetup for Apple developers, designers and founders in Boulder, hosted in the back room at Barchetta Pizza.",
+    "websiteURL": "https://boulderos.com",
+    "logoURL": null,
+    "tags": [
+      "apple",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "crazy-thursday-shenzhen-september-2026",
+    "kind": "Meetup",
+    "name": "Crazy Thursday Meetup — AI & App Builder",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-17",
+    "locationName": "Shenzhen, China",
+    "mapQuery": "Shenzhen, Guangdong, China",
+    "summary": "Shenzhen's recurring evening meetup for Apple platform developers and AI app builders, with short talks and open networking.",
+    "websiteURL": "https://luma.com/u59ra0xs",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "ai",
+      "community"
+    ]
+  },
+  {
+    "id": "ios-dev-scout-singapore-2026-09",
+    "kind": "Event",
+    "name": "iOS Dev Scout September 2026: Ship iOS Apps with AI",
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "locationName": "Apple Developer Center, Solaris, Singapore",
+    "mapQuery": "Apple Developer Center, 1 Fusionopolis Walk, Solaris South Tower, Singapore 138628",
+    "summary": "Two-talk community meetup at Singapore's Apple Developer Center on shipping iOS apps with AI-assisted workflows.",
+    "websiteURL": "https://www.meetup.com/iosdevscout/events/316443899/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift",
+      "ai"
+    ]
+  },
+  {
+    "id": "cocoaheads-aachen-2026-09",
+    "kind": "Event",
+    "name": "CocoaHeads Aachen — TDD: Entstehung und Relevanz 2026",
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "locationName": "CocoaHeads Aachen (hybrid), Aachen, Germany",
+    "mapQuery": "Aachen, Germany",
+    "summary": "Hybrid CocoaHeads Aachen session with Dominik Hauser on the origins of test-driven development and its relevance to Apple-platform work in 2026.",
+    "websiteURL": "https://www.meetup.com/cocoaheads_ac/events/316496640/",
+    "logoURL": "",
+    "tags": [
+      "swift",
+      "ios",
+      "testing"
+    ]
+  },
+  {
+    "id": "macsysadmin-2026",
+    "kind": "Conference",
+    "name": "MacSysAdmin 2026",
+    "startDate": "2026-09-29",
+    "endDate": "2026-10-02",
+    "locationName": "Gothenburg, Sweden",
+    "mapQuery": "Gothenburg, Sweden",
+    "summary": "Seventeenth edition of the long-running European conference on Apple device management, deployment and security.",
+    "websiteURL": "https://www.macsysadmin.se",
+    "logoURL": null,
+    "tags": [
+      "macos",
+      "ios",
+      "apple"
+    ]
+  },
+  {
+    "id": "auckland-ios-meetup-2026-09",
+    "kind": "Event",
+    "name": "Auckland iOS Meetup — AI-Assisted Development: From Idea to Pull Request",
+    "startDate": "2026-09-29",
+    "endDate": "2026-09-29",
+    "locationName": "Auckland, New Zealand",
+    "mapQuery": "Auckland, New Zealand",
+    "summary": "Auckland's iOS community explores end-to-end AI-assisted development workflows, from requirements through tested pull request.",
+    "websiteURL": "https://www.meetup.com/auckland-ios-meetup/events/316037443/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift",
+      "ai"
+    ]
+  },
+  {
+    "id": "mobile-romandie-beer-78-2026-09",
+    "kind": "Event",
+    "name": "Mobile Romandie Beer #78 — Bringing Your Own LLM to Apple Intelligence",
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "locationName": "Millenium, Crissier (Lausanne), Switzerland",
+    "mapQuery": "Chemin de Mongevon 25, 1023 Crissier, Switzerland",
+    "summary": "Live-demo talk on plugging third-party cloud LLM providers into Apple's Foundation Models framework via the LanguageModel protocol.",
+    "websiteURL": "https://www.meetup.com/mobile-romandie-beer/events/316381748/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift",
+      "ai"
+    ]
+  },
+  {
+    "id": "cocoaheads-hamburg-2026-10",
+    "kind": "Event",
+    "name": "CocoaHeads Hamburg — Monthly Meetup (October)",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-01",
+    "locationName": "Hamburg, Germany",
+    "mapQuery": "Hamburg, Germany",
+    "summary": "Hamburg's monthly CocoaHeads evening with a talk, announcements, pizza and time to socialise with fellow iOS developers.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-hamburg/events/316516148/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "nsmanchester-2026-10",
+    "kind": "Event",
+    "name": "NSManchester — October 2026",
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-05",
+    "locationName": "Neo, Manchester, United Kingdom",
+    "mapQuery": "Neo, 9 Charlotte Street, Manchester M1 4ET, United Kingdom",
+    "summary": "Manchester's long-running Swift, iOS and Mac developer meetup with community talks at Neo.",
+    "websiteURL": "https://www.meetup.com/nsmanchester/events/314193909/",
+    "logoURL": "",
+    "tags": [
+      "swift",
+      "ios",
+      "macos"
+    ]
+  },
+  {
+    "id": "swiftcon-berlin-2026",
+    "hasSchedule": true,
+    "kind": "Conference",
+    "name": "swiftCon Berlin 2026",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-09",
+    "locationName": "Berlin, Germany",
+    "mapQuery": "Berlin, Germany",
+    "summary": "Swift track of next.app devcon: three days of iOS and Swift talks, workshops, and AI-tooling sessions in Berlin.",
+    "websiteURL": "https://www.nextappcon.com/swiftcon",
+    "logoURL": "https://static.wixstatic.com/media/6e1ab2_bbaa0d4defff4d44b9bb85317ca1349b~mv2.png/v1/fill/w_2500,h_1313,al_c/6e1ab2_bbaa0d4defff4d44b9bb85317ca1349b~mv2.png",
+    "tags": [
+      "swift",
+      "ios",
+      "ai"
+    ]
+  },
+  {
+    "id": "letswift-wroclaw-36-2026",
+    "kind": "Event",
+    "name": "letSwift — iOS Developers Meetup #36",
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-08",
+    "locationName": "Wrocław, Poland",
+    "mapQuery": "Wrocław, Poland",
+    "summary": "36th edition of the letSwift iOS developer meetup in Wrocław, with community talks on Swift and iOS.",
+    "websiteURL": "https://www.meetup.com/letswift-ios-developers-meetup/events/316166719/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "avswift-la-tech-week-2026",
+    "kind": "Meetup",
+    "name": "AVSwift — iOS, visionOS & Swift Meetup",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-12",
+    "locationName": "Los Angeles, California, USA",
+    "mapQuery": "Los Angeles, California",
+    "summary": "LA Tech Week meetup on Swift, UI frameworks, app architecture and tooling, with a spatial-computing track.",
+    "websiteURL": "https://partiful.com/e/LCnL5D0GuOWGR3ePdswW",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "visionos",
+      "community"
+    ]
+  },
+  {
+    "id": "swiftleeds-2026",
+    "hasSchedule": true,
+    "kind": "Conference",
+    "name": "SwiftLeeds",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-14",
+    "locationName": "Leeds, UK",
+    "mapQuery": "Leeds Playhouse, Leeds, UK",
+    "summary": "Community-run, non-profit Swift conference at Leeds Playhouse with talks, drop-in expert sessions and an evening talkshow.",
+    "websiteURL": "https://swiftleeds.co.uk",
+    "logoURL": "https://swiftleeds.co.uk/img/logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "denver-apple-developers-2026-10",
+    "kind": "Event",
+    "name": "Denver Apple Developers — Pizza, Projects & Dev Discussions",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-13",
+    "locationName": "Code Talent, Denver, CO, USA",
+    "mapQuery": "Code Talent, 3412 Blake Street, Denver, CO 80205",
+    "summary": "Roundtable discussions, side-project demos and Apple-platform chat over pizza with Denver's Apple developer community.",
+    "websiteURL": "https://www.meetup.com/denverappledevelopers/events/315199587/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift",
+      "indie"
+    ]
+  },
+  {
+    "id": "crazy-thursday-shenzhen-october-2026",
+    "kind": "Meetup",
+    "name": "Crazy Thursday Meetup — AI & App Builder",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-15",
+    "locationName": "Shenzhen, China",
+    "mapQuery": "Shenzhen, Guangdong, China",
+    "summary": "Shenzhen's recurring evening meetup for Apple platform developers and AI app builders, with short talks and open networking.",
+    "websiteURL": "https://luma.com/pejzwn6o",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "ai",
+      "community"
+    ]
+  },
+  {
+    "id": "crazy-thursday-shenzhen-2026-10",
+    "kind": "Event",
+    "name": "Crazy Thursday Meetup — AI & App Builder (October 2026)",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-15",
+    "locationName": "Shenzhen, China",
+    "mapQuery": "Shenzhen, Guangdong, China",
+    "summary": "October edition of the Shenzhen AI and app-builder meetup for Apple-platform developers.",
+    "websiteURL": "https://luma.com/pejzwn6o",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift",
+      "ai"
+    ]
+  },
+  {
+    "id": "nslondon-2026-10",
+    "kind": "Event",
+    "name": "NSLondon — October 2026",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-15",
+    "locationName": "London, United Kingdom",
+    "mapQuery": "London, United Kingdom",
+    "summary": "London's Cocoa and Swift developer meetup returns for its October edition, talks to be announced.",
+    "websiteURL": "https://www.meetup.com/nslondon/events/315684698/",
+    "logoURL": "",
+    "tags": [
+      "swift",
+      "ios"
+    ]
+  },
+  {
+    "id": "sydney-cocoaheads-2026-10",
+    "kind": "Event",
+    "name": "Sydney CocoaHeads Monthly Meetup (October)",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-15",
+    "locationName": "Bilue, Sydney, NSW, Australia",
+    "mapQuery": "Bilue, Level 13, 4-6 Bligh Street, Sydney NSW 2000, Australia",
+    "summary": "Sydney's monthly CocoaHeads evening of Apple-platform talks, food and socialising, also live-streamed on YouTube.",
+    "websiteURL": "https://www.meetup.com/sydneycocoaheads/events/312607409/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "mobius-autumn-2026",
+    "kind": "Conference",
+    "name": "Mobius 2026 Autumn",
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-22",
+    "locationName": "Saint Petersburg, Russia",
+    "mapQuery": "Saint Petersburg, Russia",
+    "summary": "Twice-yearly mobile development conference by JUG Ru Group with a dedicated iOS and Swift track. Attend in person or online.",
+    "websiteURL": "https://mobiusconf.com/en/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "boulderos-october-2026",
+    "kind": "Meetup",
+    "name": "boulderOS Meetup",
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "locationName": "Boulder, Colorado, USA",
+    "mapQuery": "Barchetta Pizza, 1644 Walnut Street, Boulder, Colorado",
+    "summary": "Monthly evening meetup for Apple developers, designers and founders in Boulder, hosted in the back room at Barchetta Pizza.",
+    "websiteURL": "https://boulderos.com",
+    "logoURL": null,
+    "tags": [
+      "apple",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "boulderos-meetup-2026-10",
+    "kind": "Event",
+    "name": "boulderOS Meetup — October 2026",
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "locationName": "Boulder, Colorado, USA",
+    "mapQuery": "Boulder, Colorado, USA",
+    "summary": "October edition of the monthly boulderOS Apple-developer meetup in Boulder.",
+    "websiteURL": "https://boulderos.com",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "melbourne-cocoaheads-coding-night-2026-10",
+    "kind": "Event",
+    "name": "Melbourne CocoaHeads Coding Night (October)",
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "locationName": "Mantel Group, Melbourne, VIC, Australia",
+    "mapQuery": "Mantel Group, 452 Flinders Street, Melbourne VIC 3000, Australia",
+    "summary": "Bring-your-own-project coding night for iOS, visionOS, macOS, tvOS and watchOS developers with experts on hand to help.",
+    "websiteURL": "https://www.meetup.com/melbourne-cocoaheads/events/316351245/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "visionos",
+      "macos"
+    ]
+  },
+  {
+    "id": "swift-fall-oslo-2026-10",
+    "kind": "Event",
+    "name": "Swift Fall — iOS & Swift Meetup Oslo",
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "locationName": "Oslo, Norway",
+    "mapQuery": "Oslo, Norway",
+    "summary": "An autumn evening of iOS and Swift talks hosted by Oslo's Swift & Friends community.",
+    "websiteURL": "https://www.meetup.com/swift-and-friends/events/316481183/",
+    "logoURL": "",
+    "tags": [
+      "swift",
+      "ios"
+    ]
+  },
+  {
+    "id": "cocoaheads-boston-2026-10",
+    "kind": "Event",
+    "name": "CocoaHeads Boston — October 2026 Meeting",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-22",
+    "locationName": "Microsoft NERD Center, Cambridge, MA, USA",
+    "mapQuery": "Microsoft NERD Center, One Memorial Drive, Cambridge, MA 02142",
+    "summary": "In-person and Zoom meeting featuring Brian Arnold on using Claude to generate a multi-target Xcode project.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-boston/events/316465187/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift",
+      "ai"
+    ]
+  },
+  {
+    "id": "swift-kansai-osaka-2026-10",
+    "kind": "Event",
+    "name": "Swift Kansai — iOS and macOS Developer Meetup",
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-25",
+    "locationName": "Osakan Space, Osaka, Japan",
+    "mapQuery": "Osakan Space, 3-6-2 Bingomachi, Chuo Ward, Osaka, Japan",
+    "summary": "Bilingual Osaka gathering of iOS and macOS developers with a 30-minute talk, pizza and open Swift discussion.",
+    "websiteURL": "https://www.meetup.com/swift-kansai/events/316466400/",
+    "logoURL": "",
+    "tags": [
+      "swift",
+      "ios",
+      "macos"
+    ]
+  },
+  {
+    "id": "kanagawa-swift-3-2026",
+    "kind": "Meetup",
+    "name": "Kanagawa.swift #3",
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
+    "locationName": "Odawara, Japan",
+    "mapQuery": "Hamee Corporation, Sakae-cho, Odawara, Kanagawa, Japan",
+    "summary": "Third Kanagawa.swift gathering for Apple-platform developers: sessions, lightning talks, a panel and an evening social.",
+    "websiteURL": "https://japan-region-swift.connpass.com/event/389036/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-connection-2026",
+    "kind": "Conference",
+    "name": "Swift Connection X",
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-03",
+    "locationName": "Paris, France",
+    "mapQuery": "Paris, France",
+    "summary": "Tenth-edition Paris conference for the Swift and Apple platforms community, focused on practical talks and conversations.",
+    "websiteURL": "https://swiftconnection.io",
+    "logoURL": "https://swiftconnection.io/static/c7d63e77c83a2e3734e24fda2934cdb3/badge.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "nsmanchester-2026-11",
+    "kind": "Event",
+    "name": "NSManchester — November 2026",
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-02",
+    "locationName": "Neo, Manchester, United Kingdom",
+    "mapQuery": "Neo, 9 Charlotte Street, Manchester M1 4ET, United Kingdom",
+    "summary": "Monthly NSManchester evening of Swift, iOS and Mac developer talks in central Manchester.",
+    "websiteURL": "https://www.meetup.com/nsmanchester/events/rpwfrsyjcpbdb/",
+    "logoURL": "",
+    "tags": [
+      "swift",
+      "ios",
+      "macos"
+    ]
+  },
+  {
+    "id": "cocoaheads-austria-vienna-2026-11",
+    "kind": "Event",
+    "name": "CocoaHeads Austria Meetup — Hosted by MindNode",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-05",
+    "locationName": "MindNode Office, Vienna, Austria",
+    "mapQuery": "Mariannengasse 10/3, 1090 Vienna, Austria",
+    "summary": "Low-key Vienna CocoaHeads evening with an English-language app-development talk, food and drinks, hosted by MindNode.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-at/events/316402639/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "cocoaheads-hamburg-2026-11",
+    "kind": "Event",
+    "name": "CocoaHeads Hamburg — Monthly Meetup (November)",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-05",
+    "locationName": "Online (CocoaHeads Hamburg)",
+    "mapQuery": "Hamburg, Germany",
+    "summary": "Hamburg CocoaHeads' monthly evening for iOS and Swift developers, held online at 19:00 CET.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-hamburg/events/hdqbltyjcpbhb/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "do-ios-2026",
+    "kind": "Conference",
+    "name": "Do iOS 2026",
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-12",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Nemo Science Museum, Oosterdok 2, Amsterdam, Netherlands",
+    "summary": "Eighth edition of Amsterdam's iOS conference: a day of workshops followed by two days of talks at the Nemo Science Museum.",
+    "websiteURL": "https://do-ios.com",
+    "logoURL": "https://do-ios.com/images/card.png?v=2026",
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "denver-apple-developers-2026-11",
+    "kind": "Event",
+    "name": "Denver Apple Developers — Show & Tell and Lightning Talks",
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-10",
+    "locationName": "Code Talent, Denver, CO, USA",
+    "mapQuery": "Code Talent, 3412 Blake Street, Denver, CO 80205",
+    "summary": "Show-and-tell demos and lightning talks from Denver's Apple developer community over pizza.",
+    "websiteURL": "https://www.meetup.com/denverappledevelopers/events/315199595/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift",
+      "indie"
+    ]
+  },
+  {
+    "id": "slug-cocoaheads-sf-november-2026",
+    "kind": "Meetup",
+    "name": "Swift Language User Group × CocoaHeads",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "Lyft HQ, 185 Berry Street, San Francisco, California",
+    "summary": "November edition of the Bay Area's monthly Swift community meetup at Lyft HQ.",
+    "websiteURL": "https://www.meetup.com/swift-language/events/313452932/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "macos",
+      "community"
+    ]
+  },
+  {
+    "id": "nslondon-2026-11",
+    "kind": "Event",
+    "name": "NSLondon — November 2026",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "locationName": "London, United Kingdom",
+    "mapQuery": "London, United Kingdom",
+    "summary": "November edition of London's Cocoa and Swift developer meetup, date confirmed with talks to be announced.",
+    "websiteURL": "https://www.meetup.com/nslondon/events/315684713/",
+    "logoURL": "",
+    "tags": [
+      "swift",
+      "ios"
+    ]
+  },
+  {
+    "id": "slug-cocoaheads-sf-2026-11",
+    "kind": "Event",
+    "name": "Swift Language User Group (SLUG) x CocoaHeads — November",
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "locationName": "San Francisco, California, USA",
+    "mapQuery": "San Francisco, California, USA",
+    "summary": "Joint SLUG and CocoaHeads meetup in San Francisco with talks on Swift and Apple-platform development.",
+    "websiteURL": "https://dev.events/meetups/ios",
+    "logoURL": "",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-bharat-2026",
+    "kind": "Conference",
+    "name": "Swift Bharat 2026",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-20",
+    "locationName": "Mumbai, India",
+    "mapQuery": "Yashwantrao Chavan Centre, Mumbai, India",
+    "summary": "India's first international Apple developer conference: two days of Swift, SwiftUI and Apple-platform talks in Mumbai.",
+    "websiteURL": "https://www.swiftbharat.org",
+    "logoURL": "https://www.swiftbharat.org/og-image.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "sydney-cocoaheads-2026-11",
+    "kind": "Event",
+    "name": "Sydney CocoaHeads Monthly Meetup (November)",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-19",
+    "locationName": "Bilue, Sydney, NSW, Australia",
+    "mapQuery": "Bilue, Level 13, 4-6 Bligh Street, Sydney NSW 2000, Australia",
+    "summary": "Sydney CocoaHeads' November evening of Apple-platform talks and community catch-up, with a YouTube live stream.",
+    "websiteURL": "https://www.meetup.com/sydneycocoaheads/events/312607410/",
+    "logoURL": "",
+    "tags": [
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "swiftsonic-2026",
+    "kind": "Conference",
+    "name": "Swiftsonic '26",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-22",
+    "locationName": "Nashville, Tennessee, USA",
+    "mapQuery": "Nashville, Tennessee, USA",
+    "summary": "Community-driven Swift and iOS conference in Nashville blending technical sessions with music-festival energy.",
+    "websiteURL": "https://swiftsonicconf.com",
+    "logoURL": "https://swiftsonicconf.com/swiftsonic.png",
+    "tags": [
+      "swift",
+      "ios",
+      "swiftui"
+    ]
+  },
+  {
+    "id": "saitama-swift-1-2026",
+    "kind": "Meetup",
+    "name": "Saitama.swift #1",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "locationName": "Tokorozawa, Japan",
+    "mapQuery": "1-9-1 Namiki, Tokorozawa, Saitama, Japan",
+    "summary": "Inaugural Saitama chapter gathering of the Japan-region.swift community for Apple-platform developers.",
+    "websiteURL": "https://japan-region-swift.connpass.com/event/397259/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-zoomin-26-2026",
+    "kind": "Meetup",
+    "name": "Swift Zoomin' #26",
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-28",
+    "locationName": "Online",
+    "mapQuery": null,
+    "summary": "Twenty-sixth online Swift Zoomin' session from the Swift Tweets community: a deep dive into the Swift language.",
+    "websiteURL": "https://swift-tweets.connpass.com/event/398888/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "cocoaheads-hamburg-2026-12",
+    "kind": "Event",
+    "name": "CocoaHeads Hamburg — Monthly Meetup (December)",
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-03",
+    "locationName": "Online (CocoaHeads Hamburg)",
+    "mapQuery": "Hamburg, Germany",
+    "summary": "Hamburg CocoaHeads' monthly evening for iOS and Swift developers, held online at 19:00 CET.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-hamburg/events/hdqbltyjcqbfb/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "cocoaheads-hamburg-2027-01",
+    "kind": "Event",
+    "name": "CocoaHeads Hamburg — Monthly Meetup (January)",
+    "startDate": "2027-01-07",
+    "endDate": "2027-01-07",
+    "locationName": "Online (CocoaHeads Hamburg)",
+    "mapQuery": "Hamburg, Germany",
+    "summary": "Hamburg CocoaHeads' monthly evening for iOS and Swift developers, held online at 19:00 CET.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-hamburg/events/hdqbltykccbkb/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "iosconf-sg-2027",
+    "kind": "Conference",
+    "name": "iOS Conf SG 2027",
+    "startDate": "2027-01-21",
+    "endDate": "2027-01-23",
+    "locationName": "Singapore",
+    "mapQuery": "NUS University Cultural Centre, Singapore",
+    "summary": "Singapore's flagship iOS developer conference featuring international speakers across Apple platform topics.",
+    "websiteURL": "https://www.iosconf.sg",
+    "logoURL": "https://iosconf.sg/feature.png",
+    "tags": [
+      "ios",
+      "swift",
+      "general"
+    ]
+  },
+  {
+    "id": "arctic-conference-2027",
+    "kind": "Conference",
+    "name": "Arctic Conference 2027",
+    "startDate": "2027-02-02",
+    "endDate": "2027-02-04",
+    "locationName": "Oulu, Finland",
+    "mapQuery": "Theatre Rio, Oulu, Finland",
+    "summary": "The world's northernmost Apple developers' conference, covering iOS, macOS, visionOS, watchOS, iPadOS and tvOS.",
+    "websiteURL": "https://arcticonference.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "macos",
+      "visionos"
+    ]
+  },
+  {
+    "id": "cocoaheads-hamburg-2027-02",
+    "kind": "Event",
+    "name": "CocoaHeads Hamburg — Monthly Meetup (February)",
+    "startDate": "2027-02-04",
+    "endDate": "2027-02-04",
+    "locationName": "Online (CocoaHeads Hamburg)",
+    "mapQuery": "Hamburg, Germany",
+    "summary": "Hamburg CocoaHeads' monthly evening for iOS and Swift developers, held online at 19:00 CET.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-hamburg/events/hdqbltykcdbgb/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "tryswift-tokyo-2027",
+    "kind": "Conference",
+    "name": "try! Swift Tokyo 2027",
+    "startDate": "2027-03-02",
+    "endDate": "2027-03-04",
+    "locationName": "Tokyo, Japan",
+    "mapQuery": "Tachikawa Stage Garden, Tachikawa, Tokyo, Japan",
+    "summary": "International Swift conference in Tokyo: a workshop day followed by two days of talks from developers around the world.",
+    "websiteURL": "https://tryswift.jp",
+    "logoURL": "https://tryswift.jp/images/ogp.jpg",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "appdevcon-2027",
+    "kind": "Conference",
+    "name": "Appdevcon 2027",
+    "startDate": "2027-03-17",
+    "endDate": "2027-03-20",
+    "locationName": "Amsterdam, Netherlands",
+    "mapQuery": "Amsterdam, Netherlands",
+    "summary": "Four-day, multi-track conference for app developers covering iOS, Android, web and cross-platform, with a dedicated workshop day.",
+    "websiteURL": "https://appdevcon.nl",
+    "logoURL": "https://appdevcon.nl/wp-content/uploads/2026/01/Appdevcon-Conference.png",
+    "tags": [
+      "ios",
+      "swift",
+      "design"
+    ]
+  },
+  {
+    "id": "deep-dish-swift-2027",
+    "kind": "Conference",
+    "name": "Deep Dish Swift 2027",
+    "startDate": "2027-04-04",
+    "endDate": "2027-04-06",
+    "locationName": "Rosemont, Illinois, USA",
+    "mapQuery": "Loews Chicago O'Hare Hotel, Rosemont, Illinois",
+    "summary": "Chicago-area Swift conference returning for its fifth year with three days of technical talks, indie dev sessions and community events.",
+    "websiteURL": "https://deepdishswift.com",
+    "logoURL": "https://deepdishswift.com/assets/images/2027/deep-dish-logo.png",
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "iosdevuk-2027",
+    "kind": "Conference",
+    "name": "iOSDevUK 2027",
+    "startDate": "2027-09-06",
+    "endDate": "2027-09-09",
+    "locationName": "Aberystwyth University, Aberystwyth, Wales, UK",
+    "mapQuery": "Aberystwyth University, Penglais Campus, Aberystwyth SY23 3FL, UK",
+    "summary": "The long-running UK Apple-platform developer conference on the Welsh coast: four days of Swift, SwiftUI and iOS talks plus workshops and a strong community social programme.",
+    "websiteURL": "https://iosdevuk.com/",
+    "logoURL": "",
+    "tags": [
+      "swift",
+      "swiftui",
+      "ios"
+    ]
+  },
+  {
+    "id": "swiftcon-berlin-2027",
+    "kind": "Conference",
+    "name": "swiftCon Berlin 2027",
+    "startDate": "2027-09-29",
+    "endDate": "2027-10-01",
+    "locationName": "Berlin, Germany",
+    "mapQuery": "CityCube Berlin, Messedamm 26, Berlin, Germany",
+    "summary": "Swift track of next.app devcon: three days of iOS and Swift talks, workshops, and AI-tooling sessions at CityCube Berlin.",
+    "websiteURL": "https://www.nextappcon.com/swiftcon",
+    "logoURL": "https://static.wixstatic.com/media/6e1ab2_bbaa0d4defff4d44b9bb85317ca1349b~mv2.png/v1/fill/w_2500,h_1313,al_c/6e1ab2_bbaa0d4defff4d44b9bb85317ca1349b~mv2.png",
+    "tags": [
+      "swift",
+      "ios",
+      "ai"
+    ]
+  }
+]

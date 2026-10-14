@@ -1,0 +1,39 @@
+name: Update README list
+
+# Regenerates the conference list in README.md after data changes, and daily so
+# finished events move into the "Past events" section on their own.
+on:
+  push:
+    branches: [main]
+    paths: ["data/conferences.json", "scripts/generate_readme.py"]
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate
+        run: python3 scripts/validate_conferences.py
+      - name: Regenerate
+        run: python3 scripts/generate_readme.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "README.md already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update the conference list in README.md"
+          git push
