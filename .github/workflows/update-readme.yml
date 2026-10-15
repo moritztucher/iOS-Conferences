@@ -1,10 +1,13 @@
 name: Update README list
 
-# Regenerates the conference list in README.md after data changes.
+# Regenerates the conference list in README.md after data changes, and on 1 January
+# so the previous year drops off the list.
 on:
   push:
     branches: [main]
     paths: ["data/conferences.json", "scripts/generate_readme.py"]
+  schedule:
+    - cron: "17 4 1 1 *"
   workflow_dispatch:
 
 permissions:
