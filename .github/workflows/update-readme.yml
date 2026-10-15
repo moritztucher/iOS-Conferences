@@ -1,13 +1,10 @@
 name: Update README list
 
-# Regenerates the conference list in README.md after data changes, and daily so
-# finished events move into the "Past events" section on their own.
+# Regenerates the conference list in README.md after data changes.
 on:
   push:
     branches: [main]
     paths: ["data/conferences.json", "scripts/generate_readme.py"]
-  schedule:
-    - cron: "17 4 * * *"
   workflow_dispatch:
 
 permissions:
