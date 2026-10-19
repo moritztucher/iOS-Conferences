@@ -5207,6 +5207,39 @@
     ]
   },
   {
+    "id": "dmm-app-night-2-2026",
+    "kind": "Event",
+    "name": "DMM App Night #2 — iOS/Android Joint Study Session",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-23",
+    "locationName": "DMM Roppongi Office, Tokyo, Japan",
+    "mapQuery": "Sumitomo Fudosan Roppongi Grand Tower, 3-2-1 Roppongi, Minato-ku, Tokyo, Japan",
+    "summary": "DMM engineers share lessons from their iOS and Android apps, with talks on scroll performance, Instruments profiling and Zero-Tap Sign-In.",
+    "websiteURL": "https://dmm.connpass.com/event/401424/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "swift-bengaluru-embedded-swift-2026-10",
+    "kind": "Event",
+    "name": "Swift Bengaluru — Embedded Swift: From Code to Hardware",
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "locationName": "Bengaluru, India",
+    "mapQuery": "Prestige Minsk Square, VV Towers, Dr Ambedkar Rd, Vasanth Nagar, Bengaluru 560001, India",
+    "summary": "Hands-on Embedded Swift workshop: build small sensor and actuator projects on a Raspberry Pi Pico 2 W with Swift.",
+    "websiteURL": "https://luma.com/lbm2afcr",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "embedded",
+      "community"
+    ]
+  },
+  {
     "id": "swift-kansai-osaka-2026-10",
     "kind": "Event",
     "name": "Swift Kansai — iOS and macOS Developer Meetup",
@@ -5221,6 +5254,73 @@
       "swift",
       "ios",
       "macos"
+    ]
+  },
+  {
+    "id": "melbourne-cocoaheads-social-2026-10",
+    "kind": "Event",
+    "name": "Melbourne CocoaHeads Social Night (October)",
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-27",
+    "locationName": "Bricklane Brewing, Melbourne, Australia",
+    "mapQuery": "Bricklane Brewing, 466 Queen Street, Melbourne VIC, Australia",
+    "summary": "A relaxed evening of dev and tech talk, drinks and dinner with Melbourne's Apple-platform developer community.",
+    "websiteURL": "https://www.meetup.com/melbourne-cocoaheads/events/316760640/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "waiwai-swiftc-46-2026",
+    "kind": "Event",
+    "name": "わいわいswiftc #46 (Offline)",
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-27",
+    "locationName": "Marui Group HQ, Nakano, Tokyo, Japan",
+    "mapQuery": "Marui Group Head Office, 4-3-2 Nakano, Nakano-ku, Tokyo, Japan",
+    "summary": "In-person edition of the Swift compiler study group, with a main talk on noncopyable types and lifetime modifiers.",
+    "websiteURL": "https://iosdiscord.connpass.com/event/407319/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "mobile-romandie-beer-2026-10",
+    "kind": "Event",
+    "name": "Mobile Romandie Beer — Cyber Resilience Act for Mobile Apps",
+    "startDate": "2026-10-28",
+    "endDate": "2026-10-28",
+    "locationName": "Liip, Lausanne, Switzerland",
+    "mapQuery": "Liip SA, Rue Étraz 4, Lausanne, Switzerland",
+    "summary": "Talk on the EU Cyber Resilience Act and what CE marking, vulnerability handling and SBOMs will mean for the mobile apps you ship.",
+    "websiteURL": "https://www.meetup.com/mobile-romandie-beer/events/316801866/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "cocoaheads-aachen-2026-10",
+    "kind": "Event",
+    "name": "CocoaHeads Aachen — Share Your 15 Minutes of (Agentic) AI",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "locationName": "RWTH Aachen, Aachen, Germany",
+    "mapQuery": "RWTH Aachen i10, Im Süsterfeld 9, 52072 Aachen, Germany",
+    "summary": "On-site CocoaHeads evening where attendees each get 15 minutes to demo the AI and agentic tooling working best for them, then debate it.",
+    "websiteURL": "https://www.meetup.com/cocoaheads_ac/events/317008500/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "ai",
+      "community"
     ]
   },
   {
@@ -5377,6 +5477,23 @@
     ]
   },
   {
+    "id": "cocoaheads-boston-2026-11",
+    "kind": "Event",
+    "name": "CocoaHeads Boston — November 2026 Meeting",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "locationName": "Online (CocoaHeads Boston)",
+    "mapQuery": "Boston, Massachusetts, USA",
+    "summary": "Boston CocoaHeads' monthly second-Thursday meeting for Apple-platform developers, held on Zoom.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-boston/events/qwccbtyjcpbqb/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
     "id": "slug-cocoaheads-sf-2026-11",
     "kind": "Event",
     "name": "Swift Language User Group (SLUG) x CocoaHeads — November",
@@ -5390,6 +5507,23 @@
     "tags": [
       "swift",
       "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "melbourne-cocoaheads-coding-night-2026-11",
+    "kind": "Event",
+    "name": "Melbourne CocoaHeads Coding Night (November)",
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-18",
+    "locationName": "Mantel Group, Melbourne, Australia",
+    "mapQuery": "Mantel Group, 452 Flinders Street, Melbourne VIC, Australia",
+    "summary": "Combined CocoaHeads and GDG coding night: bring a laptop and an Apple-platform project and get help from experienced developers.",
+    "websiteURL": "https://www.meetup.com/melbourne-cocoaheads/events/316351248/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
       "community"
     ]
   },
@@ -5461,6 +5595,23 @@
     ]
   },
   {
+    "id": "melbourne-cocoaheads-social-2026-11",
+    "kind": "Event",
+    "name": "Melbourne CocoaHeads Social Night (November)",
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-24",
+    "locationName": "Bricklane Brewing, Melbourne, Australia",
+    "mapQuery": "Bricklane Brewing, 466 Queen Street, Melbourne VIC, Australia",
+    "summary": "A relaxed evening of dev and tech talk, drinks and dinner with Melbourne's Apple-platform developer community.",
+    "websiteURL": "https://www.meetup.com/melbourne-cocoaheads/events/slcvxtyjcpbgc/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
     "id": "swift-zoomin-26-2026",
     "kind": "Meetup",
     "name": "Swift Zoomin' #26",
@@ -5477,6 +5628,23 @@
     ]
   },
   {
+    "id": "sapporo-swift-bonenkai-2026",
+    "kind": "Event",
+    "name": "Sapporo.swift #忘年会2026",
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-28",
+    "locationName": "Jay's Cafe, Sapporo, Japan",
+    "mapQuery": "Central S4 Building 8F, Minami 4 Nishi 2, Chuo-ku, Sapporo, Japan",
+    "summary": "Year-end party for Sapporo's iOS developers with food, drinks, networking and optional five-minute lightning talks.",
+    "websiteURL": "https://japan-region-swift.connpass.com/event/409372/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
     "id": "cocoaheads-hamburg-2026-12",
     "kind": "Event",
     "name": "CocoaHeads Hamburg — Monthly Meetup (December)",
@@ -5486,6 +5654,107 @@
     "mapQuery": "Hamburg, Germany",
     "summary": "Hamburg CocoaHeads' monthly evening for iOS and Swift developers, held online at 19:00 CET.",
     "websiteURL": "https://www.meetup.com/cocoaheads-hamburg/events/hdqbltyjcqbfb/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "nsmanchester-2026-12",
+    "kind": "Event",
+    "name": "NSManchester — December 2026",
+    "startDate": "2026-12-07",
+    "endDate": "2026-12-07",
+    "locationName": "Neo, Manchester, United Kingdom",
+    "mapQuery": "Neo, 9 Charlotte Street, Manchester, United Kingdom",
+    "summary": "December edition of Manchester's monthly iOS and Swift developer meetup.",
+    "websiteURL": "https://www.meetup.com/nsmanchester/events/316826976/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "denver-apple-developers-2026-12",
+    "kind": "Event",
+    "name": "Denver Apple Developers — December Show & Tell",
+    "startDate": "2026-12-08",
+    "endDate": "2026-12-08",
+    "locationName": "Code Talent, Denver, CO, USA",
+    "mapQuery": "Code Talent, 3412 Blake Street, Denver, CO 80205",
+    "summary": "Roundtable discussions, side-project demos and Apple-platform talk from Denver's developer community over pizza.",
+    "websiteURL": "https://www.meetup.com/denverappledevelopers/events/315199604/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "indie"
+    ]
+  },
+  {
+    "id": "cocoaheads-boston-2026-12",
+    "kind": "Event",
+    "name": "CocoaHeads Boston — December 2026 Meeting",
+    "startDate": "2026-12-10",
+    "endDate": "2026-12-10",
+    "locationName": "Online (CocoaHeads Boston)",
+    "mapQuery": "Boston, Massachusetts, USA",
+    "summary": "Boston CocoaHeads' monthly second-Thursday meeting for Apple-platform developers, held on Zoom.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-boston/events/qwccbtyjcqbnb/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "slug-cocoaheads-sf-2026-12",
+    "kind": "Event",
+    "name": "Swift Language User Group × CocoaHeads — December",
+    "startDate": "2026-12-10",
+    "endDate": "2026-12-10",
+    "locationName": "Sentry HQ, San Francisco, CA, USA",
+    "mapQuery": "Sentry, 45 Fremont Street, San Francisco, CA, USA",
+    "summary": "San Francisco's monthly SLUG and CocoaHeads evening of Swift talks from local community members, hosted by Sentry.",
+    "websiteURL": "https://www.meetup.com/swift-language/events/314414516/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "sydney-cocoaheads-2026-12",
+    "kind": "Event",
+    "name": "Sydney CocoaHeads Monthly Meetup (December)",
+    "startDate": "2026-12-17",
+    "endDate": "2026-12-17",
+    "locationName": "Bilue, Sydney, NSW, Australia",
+    "mapQuery": "Bilue, Level 13, 4-6 Bligh Street, Sydney NSW 2000, Australia",
+    "summary": "Sydney CocoaHeads' December evening of Apple-platform talks and community catch-up, with a YouTube live stream.",
+    "websiteURL": "https://www.meetup.com/sydneycocoaheads/events/316608196/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "nsmanchester-2027-01",
+    "kind": "Event",
+    "name": "NSManchester — January 2027",
+    "startDate": "2027-01-04",
+    "endDate": "2027-01-04",
+    "locationName": "Neo, Manchester, United Kingdom",
+    "mapQuery": "Neo, 9 Charlotte Street, Manchester, United Kingdom",
+    "summary": "January edition of Manchester's monthly iOS and Swift developer meetup.",
+    "websiteURL": "https://www.meetup.com/nsmanchester/events/rpwfrsykccbgb/",
     "logoURL": null,
     "tags": [
       "ios",
@@ -5528,6 +5797,22 @@
     ]
   },
   {
+    "id": "sydney-cocoaheads-2027-01",
+    "kind": "Event",
+    "name": "Sydney CocoaHeads Monthly Meetup (January)",
+    "startDate": "2027-01-21",
+    "endDate": "2027-01-21",
+    "locationName": "Bilue, Sydney, NSW, Australia",
+    "mapQuery": "Bilue, Level 13, 4-6 Bligh Street, Sydney NSW 2000, Australia",
+    "summary": "Sydney CocoaHeads' first evening of 2027: Apple-platform talks and community catch-up.",
+    "websiteURL": "https://www.meetup.com/sydneycocoaheads/events/nzmwxtykccbcc/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift"
+    ]
+  },
+  {
     "id": "arctic-conference-2027",
     "kind": "Conference",
     "name": "Arctic Conference 2027",
@@ -5558,6 +5843,23 @@
     "tags": [
       "ios",
       "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "kumamoto-swift-1-2027",
+    "kind": "Event",
+    "name": "Kumamoto.swift #1",
+    "startDate": "2027-02-13",
+    "endDate": "2027-02-13",
+    "locationName": "Prefectural University of Kumamoto, Kumamoto, Japan",
+    "mapQuery": "Prefectural University of Kumamoto, 3-1-100 Tsukide, Higashi-ku, Kumamoto, Japan",
+    "summary": "First Kumamoto edition of the Japan-\\(region).swift series: developers and students share Apple-platform knowledge and network.",
+    "websiteURL": "https://japan-region-swift.connpass.com/event/409145/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
       "community"
     ]
   },
