@@ -48,7 +48,7 @@ Spotted a missing conference, a wrong date, or a cancelled event? Any of these w
 
 | Date | Conference | Location |
 | --- | --- | --- |
-| 21–23 Jan 2027 | [iOS Conf SG 2027](https://www.iosconf.sg) | Singapore |
+| 20–22 Jan 2027 | [iOS Conf SG 2027](https://2027.iosconf.sg) | Singapore |
 | 2–4 Feb 2027 | [Arctic Conference 2027](https://arcticonference.com) | Oulu, Finland |
 | 2–4 Mar 2027 | [try! Swift Tokyo 2027](https://tryswift.jp) | Tokyo, Japan |
 | 17–20 Mar 2027 | [Appdevcon 2027](https://appdevcon.nl) | Amsterdam, Netherlands |
