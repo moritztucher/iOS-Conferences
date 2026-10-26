@@ -5324,6 +5324,22 @@
     ]
   },
   {
+    "id": "cocoaheads-montreal-2026-10",
+    "kind": "Event",
+    "name": "CocoaHeads MTL @ Apple — October 2026",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "locationName": "Apple Montreal, Montreal, QC, Canada",
+    "mapQuery": "Apple Montreal, 1190 Avenue des Canadiens-de-Montréal, Montreal, QC, Canada",
+    "summary": "Montreal CocoaHeads evening hosted at Apple's Montreal offices, focused on adapting apps to the iPhone Duo foldable and the new iOS 27 APIs.",
+    "websiteURL": "https://www.meetup.com/cocoaheads-montreal/events/317068777/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift"
+    ]
+  },
+  {
     "id": "kanagawa-swift-3-2026",
     "kind": "Meetup",
     "name": "Kanagawa.swift #3",
@@ -5561,6 +5577,22 @@
     ]
   },
   {
+    "id": "lehi-cocoaheads-2026-11",
+    "kind": "Event",
+    "name": "Lehi CocoaHeads — November 2026",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-19",
+    "locationName": "MTech Trades & Technology Building, Lehi, UT, USA",
+    "mapQuery": "MTech Trades & Technology Building, 2353 Triumph Boulevard, Lehi, UT, USA",
+    "summary": "Casual monthly meetup of the Utah iOS and Mac Developers group in Lehi.",
+    "websiteURL": "https://www.meetup.com/utah-ios-and-mac-developers/events/pbbmftyjcpbzb/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift"
+    ]
+  },
+  {
     "id": "swiftsonic-2026",
     "kind": "Conference",
     "name": "Swiftsonic '26",
@@ -5730,6 +5762,23 @@
     ]
   },
   {
+    "id": "swift-kansai-osaka-2026-12",
+    "kind": "Event",
+    "name": "Swift Kansai — iOS and macOS Developer Meetup (December)",
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-13",
+    "locationName": "Osakan Space, Osaka, Japan",
+    "mapQuery": "Osakan Space, 3-6-2 Bingomachi, Chuo Ward, Osaka, Japan",
+    "summary": "Bilingual Osaka gathering of iOS and macOS developers with a 30-minute talk, pizza and open Swift discussion.",
+    "websiteURL": "https://www.meetup.com/swift-kansai/events/317043512/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
+      "macos"
+    ]
+  },
+  {
     "id": "sydney-cocoaheads-2026-12",
     "kind": "Event",
     "name": "Sydney CocoaHeads Monthly Meetup (December)",
@@ -5739,6 +5788,22 @@
     "mapQuery": "Bilue, Level 13, 4-6 Bligh Street, Sydney NSW 2000, Australia",
     "summary": "Sydney CocoaHeads' December evening of Apple-platform talks and community catch-up, with a YouTube live stream.",
     "websiteURL": "https://www.meetup.com/sydneycocoaheads/events/316608196/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "lehi-cocoaheads-2026-12",
+    "kind": "Event",
+    "name": "Lehi CocoaHeads — December 2026",
+    "startDate": "2026-12-17",
+    "endDate": "2026-12-17",
+    "locationName": "MTech Trades & Technology Building, Lehi, UT, USA",
+    "mapQuery": "MTech Trades & Technology Building, 2353 Triumph Boulevard, Lehi, UT, USA",
+    "summary": "Casual monthly meetup of the Utah iOS and Mac Developers group in Lehi.",
+    "websiteURL": "https://www.meetup.com/utah-ios-and-mac-developers/events/pbbmftyjcqbwb/",
     "logoURL": null,
     "tags": [
       "ios",
@@ -5806,6 +5871,22 @@
     "mapQuery": "Bilue, Level 13, 4-6 Bligh Street, Sydney NSW 2000, Australia",
     "summary": "Sydney CocoaHeads' first evening of 2027: Apple-platform talks and community catch-up.",
     "websiteURL": "https://www.meetup.com/sydneycocoaheads/events/nzmwxtykccbcc/",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "lehi-cocoaheads-2027-01",
+    "kind": "Event",
+    "name": "Lehi CocoaHeads — January 2027",
+    "startDate": "2027-01-21",
+    "endDate": "2027-01-21",
+    "locationName": "MTech Trades & Technology Building, Lehi, UT, USA",
+    "mapQuery": "MTech Trades & Technology Building, 2353 Triumph Boulevard, Lehi, UT, USA",
+    "summary": "Casual monthly meetup of the Utah iOS and Mac Developers group in Lehi.",
+    "websiteURL": "https://www.meetup.com/utah-ios-and-mac-developers/events/pbbmftykccbcc/",
     "logoURL": null,
     "tags": [
       "ios",
