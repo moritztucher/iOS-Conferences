@@ -5644,6 +5644,22 @@
     ]
   },
   {
+    "id": "love-swift-101-2026",
+    "kind": "Event",
+    "name": "集まれSwift好き！Swift愛好会 vol.101",
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-24",
+    "locationName": "Marui Group HQ, Nakano, Tokyo, Japan",
+    "mapQuery": "Marui Group Head Office, 4-3-2 Nakano, Nakano-ku, Tokyo, Japan",
+    "summary": "Evening lightning-talk meetup for Swift enthusiasts, also streamed on YouTube Live.",
+    "websiteURL": "https://love-swift.connpass.com/event/405314/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "community"
+    ]
+  },
+  {
     "id": "swift-zoomin-26-2026",
     "kind": "Meetup",
     "name": "Swift Zoomin' #26",
@@ -5673,6 +5689,23 @@
     "tags": [
       "ios",
       "swift",
+      "community"
+    ]
+  },
+  {
+    "id": "cocoa-swift-kanto-2026-11",
+    "kind": "Event",
+    "name": "Cocoa/Swift 勉強会 2026/11/29",
+    "startDate": "2026-11-29",
+    "endDate": "2026-11-29",
+    "locationName": "Matsudo, Chiba, Japan",
+    "mapQuery": "Gokō Community Center, 2-35-5 Gokō, Matsudo, Chiba, Japan",
+    "summary": "Long-running Kanto-area Cocoa and Swift study group session for Apple-platform developers.",
+    "websiteURL": "https://cocoa-kanto.connpass.com/event/411860/",
+    "logoURL": null,
+    "tags": [
+      "swift",
+      "ios",
       "community"
     ]
   },
@@ -5992,6 +6025,23 @@
     "tags": [
       "swift",
       "ios",
+      "community"
+    ]
+  },
+  {
+    "id": "ioskonf-2027",
+    "kind": "Conference",
+    "name": "iOSKonf27",
+    "startDate": "2027-05-10",
+    "endDate": "2027-05-12",
+    "locationName": "Skopje, North Macedonia",
+    "mapQuery": "Philharmonic of the Republic of Macedonia, Skopje, North Macedonia",
+    "summary": "iOS and Swift community conference returning to the Macedonian Philharmonic in Skopje.",
+    "websiteURL": "https://ioskonf.mk",
+    "logoURL": "https://ioskonf.mk/assets/share-ticket.png",
+    "tags": [
+      "ios",
+      "swift",
       "community"
     ]
   },

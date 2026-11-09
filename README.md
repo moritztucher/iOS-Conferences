@@ -53,6 +53,7 @@ Spotted a missing conference, a wrong date, or a cancelled event? Any of these w
 | 2–4 Mar 2027 | [try! Swift Tokyo 2027](https://tryswift.jp) | Tokyo, Japan |
 | 17–20 Mar 2027 | [Appdevcon 2027](https://appdevcon.nl) | Amsterdam, Netherlands |
 | 4–6 Apr 2027 | [Deep Dish Swift 2027](https://deepdishswift.com) | Rosemont, Illinois, USA |
+| 10–12 May 2027 | [iOSKonf27](https://ioskonf.mk) | Skopje, North Macedonia |
 | 6–9 Sep 2027 | [iOSDevUK 2027](https://iosdevuk.com/) | Aberystwyth University, Aberystwyth, Wales, UK |
 | 29 Sep – 1 Oct 2027 | [swiftCon Berlin 2027](https://www.nextappcon.com/swiftcon) | Berlin, Germany |
 
