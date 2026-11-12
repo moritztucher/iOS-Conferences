@@ -3,8 +3,9 @@
 
 Rewrites everything between the `conferences:start` and `conferences:end` markers with
 conferences only (no events, meetups, or watch parties) from the current year onwards: one
-table per year, each sorted by date. Standard library only. CI runs it on every data change
-and on 1 January, so the previous year drops off on its own.
+table per year, each sorted by date. Standard library only. The pre-commit hook
+(.githooks/pre-commit) runs it on every data change, and the weekly conference scout runs
+it too, so the previous year drops off in the first scout run of January.
 
     python3 scripts/generate_readme.py          # rewrite README.md
     python3 scripts/generate_readme.py --check  # exit 1 if README.md is out of date

@@ -107,9 +107,15 @@ The file is sorted by `startDate` ascending. Keep it sorted when you add a row â
 python3 scripts/validate_conferences.py
 ```
 
-This checks required fields, date and time formats, HTTPS URLs, IANA time zones, and that every `id` is unique. CI runs it on every pull request, so a PR that fails it can't be merged.
+This checks required fields, date and time formats, HTTPS URLs, IANA time zones, and that every `id` is unique. A PR that fails it can't be merged; the maintainer runs it on every pull request before merging.
 
-You don't need to touch `README.md`. Its conference list is generated from `conferences.json` after your change is merged.
+To run it, and the schedule validator, automatically on every commit, enable the repo's hook once:
+
+```bash
+git config core.hooksPath .githooks
+```
+
+The hook also regenerates the conference list in `README.md` and adds it to your commit. Without the hook you don't need to touch `README.md`; it is regenerated before your change is merged.
 ---
 
 ## Talk schedules
