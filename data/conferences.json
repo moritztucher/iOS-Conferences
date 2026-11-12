@@ -5727,6 +5727,25 @@
     ]
   },
   {
+    "id": "belfastswift-2026-12",
+    "kind": "Meetup",
+    "name": "BelfastSwift — December 2026",
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-03",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "locationName": "Deloitte, The Ewart, Belfast, UK",
+    "mapQuery": "The Ewart, 3 Bedford Square, Belfast BT2 7EP, UK",
+    "summary": "The first meetup of Belfast's new Swift and iOS community, hosted by Deloitte: two talks, food, drinks and time to chat.",
+    "websiteURL": "https://www.belfastswift.com",
+    "logoURL": null,
+    "tags": [
+      "ios",
+      "swift",
+      "community"
+    ]
+  },
+  {
     "id": "nsmanchester-2026-12",
     "kind": "Event",
     "name": "NSManchester — December 2026",
